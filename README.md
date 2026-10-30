@@ -16,6 +16,9 @@
 
 下载后先核对压缩包 SHA-256，再将四个 ZIP **全部解压到本仓库根目录**，与现有 `competition_local/` 合并。不要把ZIP文件名当作额外一层目录。资源包不含演示数据、虚拟环境、WSL系统盘、旧检查点或缓存。
 
+
+资源包已在本地完成打包和ZIP完整性校验，总计 **35.54 GB**。逐文件及压缩包SHA-256见 [资源清单](resources/manifest.json)。将 `resources/verify_resources.py` 与下载的ZIP、`manifest.json`放在一起时，需将清单重命名为`资源校验清单.json`后运行校验；网盘上传目录已包含可直接运行的`校验资源.py`。
+
 ## 目录导航
 
 - `competition_local/cloud_snapshot/PPSUC2026/`：Isaac原工程源码、配置与采集模块。
