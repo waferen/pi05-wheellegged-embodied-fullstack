@@ -33,6 +33,7 @@
 cd competition_local
 powershell -ExecutionPolicy Bypass -File .\setup_windows.ps1
 .\.venv\Scripts\python.exe -m pip install h5py msgpack
+.\.venv\Scripts\python.exe -m pip install -e .\cloud_snapshot\openpi\packages\openpi-client
 powershell -ExecutionPolicy Bypass -File .\view_hotel.ps1
 ```
 
