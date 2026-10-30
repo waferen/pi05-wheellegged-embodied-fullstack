@@ -1,0 +1,13 @@
+{
+  "run_name": "pi05_mujoco_ep0_v2_lora",
+  "source": "D:\\EAI Competition Of PPSUC\\competition_local\\datasets\\mujoco_raw\\episode_000000.hdf5",
+  "frames": 17674,
+  "boundary_frame": 9392,
+  "training_steps": 3000,
+  "batch": 1,
+  "initial": "original run01/40000 params",
+  "only_new_episode": true,
+  "old_model_preserved": true,
+  "peak_lr": 2.5e-05,
+  "save_every": 250
+}

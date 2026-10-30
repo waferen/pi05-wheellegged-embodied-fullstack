@@ -1,0 +1,32 @@
+{
+  "mode_phase_transitions": [
+    {
+      "seconds": 0.020000000000000018,
+      "mode": "walk",
+      "phase": 0
+    },
+    {
+      "seconds": 3.1199999999997674,
+      "mode": "stair",
+      "phase": 0
+    },
+    {
+      "seconds": 27.239999999995227,
+      "mode": "walk",
+      "phase": 0
+    },
+    {
+      "seconds": 69.64000000001677,
+      "mode": "low_grasp",
+      "phase": 0
+    },
+    {
+      "seconds": 131.83999999990618,
+      "mode": "low_grasp",
+      "phase": 1
+    }
+  ],
+  "contact_samples": 0,
+  "first_contact_seconds": null,
+  "target_max_z": 0.1313262864282853
+}

@@ -1,0 +1,26 @@
+# Runtime and large assets
+**/.venv/
+**/__pycache__/
+**/node_modules/
+*.pyc
+*.partial
+*.log
+.env
+.env.*
+**/datasets/
+**/checkpoints/
+**/portable_checkpoint*/
+**/runs/
+**/distro/
+*.zip
+*.hdf5
+*.mjb
+*.vhdx
+*.pt
+*.pth
+*.safetensors
+# Assets are restored separately
+competition_local/mujoco_hotel/assets/
+competition_local/mujoco_hotel/usd_layers/
+competition_local/mujoco_hotel/material_library/
+competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/

@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "frames": 17601,
+  "episodes": 1,
+  "norm_state_count": 17601,
+  "norm_action_count": 880050,
+  "norm_uses_actual_delta_transform": true,
+  "sample_checks": [
+    {
+      "frame": 0,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 4000,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 9408,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 9409,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 1
+    },
+    {
+      "frame": 17600,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 1
+    }
+  ],
+  "source": {
+    "path": "/mnt/d/EAI Competition Of PPSUC/competition_local/datasets/mujoco_raw/episode_000003.hdf5",
+    "frames": 17601,
+    "seconds": 352.02,
+    "last_stage": 14,
+    "result": "success",
+    "purpose": "demonstration",
+    "phase1_start_frame": 9409,
+    "fps": 50,
+    "valid": true,
+    "sha256": "7f4a247ed79fc84ef2dae92d4b8c60b2229cf2042c72799f94dc274660817ad5"
+  },
+  "assets": "/mnt/d/EAI Competition Of PPSUC/competition_local/mujoco_finetune/assets/pi05_mujoco_ep3_lora/local/mujoco_success_ep3",
+  "config_checkpoint": "/mnt/d/EAI Competition Of PPSUC/competition_local/mujoco_finetune/checkpoints/pi05_mujoco_ep3_lora/pilot500"
+}

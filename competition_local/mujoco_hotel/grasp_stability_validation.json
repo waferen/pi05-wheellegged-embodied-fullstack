@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "applied": {
+    "noslip_iterations": 3,
+    "gripper_kp": 2000,
+    "gripper_damping": 25,
+    "force_limit_per_finger_N": 500,
+    "sliding_friction": 1,
+    "finger_collision": "original single hull; decomposition candidate not adopted"
+  },
+  "cases": {
+    "horizontal_center": {
+      "hold_seconds": 30,
+      "hold_slip_mm": 2.4850116244096615e-05,
+      "tilt90_slip_mm": 0.26771472533806984,
+      "moving_slip_mm": 0.0001410850741816362,
+      "release_fall_m": 0.1199765877268596
+    },
+    "horizontal_outward_15mm": {
+      "hold_seconds": 30,
+      "hold_slip_mm": 6.925512319439357e-06,
+      "tilt90_slip_mm": 0.15998506302689722,
+      "moving_slip_mm": 3.783747303926846e-05,
+      "release_fall_m": 0.11654330421606918
+    },
+    "top_down": {
+      "hold_seconds": 30,
+      "hold_slip_mm": 0.00016170443635135211,
+      "tilt90_slip_mm": 0.3144128449613163,
+      "moving_slip_mm": 2.9781557711581105e-05,
+      "release_fall_m": 0.10491237501646172
+    }
+  },
+  "baseline_horizontal_10s_slip_mm": 9.228643195935854,
+  "locomotion": {
+    "walk": {
+      "distance_4s_m": 2.587779402744036,
+      "min_upright": 0.9994205569779608
+    },
+    "stairs": {
+      "initial": [
+        22.01092290715372,
+        7.0526138190607,
+        0.01431777657661392
+      ],
+      "end": [
+        14.753014091525023,
+        7.342725444362672,
+        0.5830722797480178
+      ],
+      "rise_m": 0.5687545031714039,
+      "min_upright": 0.9851051761564272
+    },
+    "passed": true
+  },
+  "scope": "Original finger/C4 geometry contact bench. The 15mm inward offset fails to establish bilateral contact and is excluded from holding claims. No object weld/adhesion. Full hotel teleop is user-reviewable with measured per-finger forces.",
+  "current_model_sha256": "17ab7ed4436e43ebf4768f9b8e867ed4711b8f870fedbe00dd76bb7f67583c8f",
+  "c4_scene_stability": true,
+  "geometry_source_bounds": true
+}

@@ -1,0 +1,19 @@
+{
+  "checked_at": 1792911349.850301,
+  "settings": {
+    "walk_forward_m_s": 0.65,
+    "walk_backward_m_s": 0.45,
+    "stair_speed_m_s": 0.25,
+    "turn_rad_s": 0.6
+  },
+  "forward_seconds": 4.0,
+  "forward_distance_m": 2.6028129019302995,
+  "measured_mean_forward_m_s": 0.6507032254825749,
+  "forward_upright_min": 0.9994957931742436,
+  "backward_upright_min": 0.9984042260927607,
+  "turn_upright_min": 0.9969582257140216,
+  "release_and_space_stop_passed": true,
+  "stair_command_m_s": 0.25,
+  "scope": "Upper hotel corridor, forward/backward and turn in place; no change to original keyboard meanings.",
+  "passed": true
+}

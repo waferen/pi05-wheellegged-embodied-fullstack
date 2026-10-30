@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "stages": [
+    {
+      "id": 1,
+      "instruction_en": "Approach the stairs, switch to stair traversal mode 2, and climb to the upper landing. Once on the landing, switch to walking mode 1.",
+      "instruction_zh": "前往楼梯，切换到楼梯通行模式 2，上楼到达上方平台后切换到行走模式 1。"
+    },
+    {
+      "id": 2,
+      "instruction_en": "Pass through the central doorway, cross the corridor, and enter room C, the first room on the right. Approach the light brown C4 package with dark straps on the floor. Position the robot within grasping reach, switch to low grasping mode 4, and hold the base stationary.",
+      "instruction_zh": "穿过中央大门和横向走廊，进入右侧第一个房间。靠近地面上浅棕色、带有多道深色绑带的 C4 包裹，调整机身使目标处于可抓取范围内，切换到低位抓取模式 4。"
+    },
+    {
+      "id": 3,
+      "instruction_en": "Grasp the light brown C4 package with dark straps on the floor. Lift it clear of the floor and keep it securely gripped.",
+      "instruction_zh": "抓住地面上浅棕色、带有多道深色绑带的 C4 包裹并保持稳定夹持。"
+    },
+    {
+      "id": 4,
+      "instruction_en": "Switch to walking mode 1 and carry the grasped C4 package out of room C. Retrace the entry route across the corridor and through the central doorway to the upper stair landing, avoiding obstacles and keeping the package securely gripped.",
+      "instruction_zh": "切换到行走模式 1，离开房间，穿过横向走廊和中央大门，返回楼梯上方平台。"
+    },
+    {
+      "id": 5,
+      "instruction_en": "Switch to stair traversal mode 2 and descend to the lower landing while keeping the C4 package securely gripped. Once on the landing, switch to walking mode 1.",
+      "instruction_zh": "切换到楼梯通行模式 2，下楼到达下方平台后切换到行走模式 1。"
+    },
+    {
+      "id": 6,
+      "instruction_en": "Carry the grasped C4 package to the designated collection bin. Position the robot so the arm can place the package inside, then switch to low grasping mode 4 and hold the base stationary.",
+      "instruction_zh": "前往安置桶，调整机身使机械臂能够将包裹放入桶内，随后切换到低位抓取模式 4。"
+    },
+    {
+      "id": 7,
+      "instruction_en": "Place the C4 package fully inside the designated collection bin, open the gripper, and leave the package resting inside the bin.",
+      "instruction_zh": "将 C4 包裹完全放入指定安置桶内，松开夹爪，使包裹稳定留在桶内。"
+    },
+    {
+      "id": 8,
+      "instruction_en": "Switch to walking mode 1 and return from the collection bin to the stairs. Switch to stair traversal mode 2 and climb to the upper landing, then switch to walking mode 1.",
+      "instruction_zh": "切换到行走模式 1，从安置桶返回楼梯。切换到楼梯通行模式 2，上楼到达上方平台后切换到行走模式 1。"
+    },
+    {
+      "id": 9,
+      "instruction_en": "Pass through the central doorway, cross the corridor, and enter room C, the first room on the right. Approach the light brown C4 package with dark straps on the elevated supporting surface. Position the robot within grasping reach, switch to high grasping mode 5, and hold the base stationary.",
+      "instruction_zh": "穿过中央大门和横向走廊，进入右侧第一个房间。靠近高处支撑面上浅棕色、带有多道深色绑带的 C4 包裹，调整机身使目标处于可抓取范围内，切换到高位抓取模式 5。"
+    },
+    {
+      "id": 10,
+      "instruction_en": "Grasp the light brown C4 package with dark straps on the elevated supporting surface. Lift it clear of the surface and keep it securely gripped.",
+      "instruction_zh": "抓住高处支撑面上浅棕色、带有多道深色绑带的 C4 包裹并保持稳定夹持。"
+    },
+    {
+      "id": 11,
+      "instruction_en": "Switch to walking mode 1 and carry the grasped C4 package out of room C. Retrace the entry route across the corridor and through the central doorway to the upper stair landing, avoiding obstacles and keeping the package securely gripped.",
+      "instruction_zh": "切换到行走模式 1，离开房间，沿原路穿过横向走廊和中央大门，返回楼梯上方平台。"
+    },
+    {
+      "id": 12,
+      "instruction_en": "Switch to stair traversal mode 2 and descend to the lower landing while keeping the C4 package securely gripped. Once on the landing, switch to walking mode 1.",
+      "instruction_zh": "切换到楼梯通行模式 2，下楼到达下方平台后切换到行走模式 1。"
+    },
+    {
+      "id": 13,
+      "instruction_en": "Carry the grasped C4 package to the designated collection bin. Position the robot so the arm can place the package inside, then switch to low grasping mode 4 and hold the base stationary.",
+      "instruction_zh": "前往安置桶，调整机身使机械臂能够将包裹放入桶内，随后切换到低位抓取模式 4。"
+    },
+    {
+      "id": 14,
+      "instruction_en": "Place the C4 package fully inside the designated collection bin, open the gripper, and leave the package resting inside the bin.",
+      "instruction_zh": "将 C4 包裹完全放入指定安置桶内，松开夹爪，使包裹稳定留在桶内。"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "restored": [
+    {
+      "source": "/World/C4/C4_1",
+      "body": "World_C4_C4_1",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        5.300000000000001,
+        3.8500000000000005,
+        1.11
+      ],
+      "geoms": 3,
+      "source_collision_approximations": [
+        "sdf"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": "Source SDF collision remains a convex approximation in this adapter."
+    },
+    {
+      "source": "/World/C4/C4_2",
+      "body": "World_C4_C4_2",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        7.0093643502492995,
+        -2.059435355806545,
+        0.4950141460190788
+      ],
+      "geoms": 2,
+      "source_collision_approximations": [
+        "convexHull"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": null
+    },
+    {
+      "source": "/World/C4/C4_3",
+      "body": "World_C4_C4_3",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        8.75,
+        4.55,
+        0.05
+      ],
+      "geoms": 3,
+      "source_collision_approximations": [
+        "convexHull"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": null
+    },
+    {
+      "source": "/World/C4/C4_4",
+      "body": "World_C4_C4_4",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        -2.0,
+        2.15,
+        0.049999999999999864
+      ],
+      "geoms": 2,
+      "source_collision_approximations": [
+        "convexHull"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": null
+    },
+    {
+      "source": "/World/C4/easy_C4_1",
+      "body": "World_C4_easy_C4_1",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        6.844818854366073,
+        13.999999999999998,
+        0.818269113067252
+      ],
+      "geoms": 3,
+      "source_collision_approximations": [
+        "sdf"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": "Source SDF collision remains a convex approximation in this adapter."
+    },
+    {
+      "source": "/World/C4/easy_C4_2",
+      "body": "World_C4_easy_C4_2",
+      "mass_kg": 0.009999999776482582,
+      "source_position_m": [
+        6.050000000000001,
+        19.3,
+        0.049999999999999864
+      ],
+      "geoms": 2,
+      "source_collision_approximations": [
+        "convexHull"
+      ],
+      "inertia": "computed from convex hull; original USD has no explicit inertia",
+      "limitation": null
+    }
+  ],
+  "source_assets_unchanged": true
+}

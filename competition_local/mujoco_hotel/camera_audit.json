@@ -1,0 +1,218 @@
+{
+  "passed": true,
+  "source_hotel": "D:\\EAI Competition Of PPSUC\\competition_local\\cloud_snapshot\\PPSUC2026\\ppsuc_robot_model\\scene\\Competition_hotel\\Collected_task03\\hotel\\task03.usd",
+  "before": {
+    "head": {
+      "pos": [
+        0.465496359,
+        0.0,
+        0.0
+      ],
+      "quat": [
+        -0.6644630242300699,
+        -0.24184476308373856,
+        0.24184476308373856,
+        0.6644630242300699
+      ],
+      "resolution": [
+        1,
+        1
+      ],
+      "near_m": 0.5075373499458925,
+      "frustum_vertical": [
+        0.7942094802856445,
+        0.7942094802856445
+      ],
+      "frustum_horizontal": [
+        0.0,
+        0.0
+      ],
+      "clip_m": [
+        0.5075373649597168,
+        4060.298828125
+      ],
+      "finger_pixels": {
+        "open": 0,
+        "closed": 0
+      }
+    },
+    "hand": {
+      "pos": [
+        -0.0724817352,
+        1.69620198e-06,
+        0.0323147498
+      ],
+      "quat": [
+        0.1590467060053428,
+        0.6889892730231449,
+        -0.6889879980231449,
+        -0.15903919500534253
+      ],
+      "resolution": [
+        1,
+        1
+      ],
+      "near_m": 0.5075373499458925,
+      "frustum_vertical": [
+        0.6414560079574585,
+        0.6414560079574585
+      ],
+      "frustum_horizontal": [
+        0.0,
+        0.0
+      ],
+      "clip_m": [
+        0.5075373649597168,
+        4060.298828125
+      ],
+      "finger_pixels": {
+        "open": 0,
+        "closed": 0
+      }
+    }
+  },
+  "source": {
+    "head": {
+      "prim": "/World/b2w_piper/base_link/HeadCamera/HeadCamera",
+      "body": "/World/b2w_piper/base_link",
+      "position_m": [
+        0.46549635906576015,
+        0.0,
+        0.0
+      ],
+      "quaternion_wxyz": [
+        -0.664463024,
+        -0.241844763,
+        0.241844763,
+        0.664463024
+      ],
+      "focal_mm": 4.885799884796143,
+      "horizontal_aperture_mm": 20.954999923706055,
+      "authored_vertical_aperture_mm": 15.290800094604492,
+      "effective_vertical_aperture_mm": 15.716249942779541,
+      "fx_pixels": 149.22032630179618,
+      "fy_pixels": 149.22032630179618,
+      "horizontal_fov_deg": 129.99944828515547,
+      "vertical_fov_deg": 116.25732197341317,
+      "source_clip_m": [
+        0.009999999776482582,
+        10000000.0
+      ],
+      "resolution": [
+        640,
+        480
+      ]
+    },
+    "hand": {
+      "prim": "/World/b2w_piper/gripper_base/GripperCamera/GripperCamera",
+      "body": "/World/b2w_piper/gripper_base",
+      "position_m": [
+        -0.07248173521137558,
+        1.6962019815380813e-06,
+        0.03231474983267546
+      ],
+      "quaternion_wxyz": [
+        0.159046706,
+        0.688989273,
+        -0.688987998,
+        -0.159039195
+      ],
+      "focal_mm": 6.049200057983398,
+      "horizontal_aperture_mm": 20.954999923706055,
+      "authored_vertical_aperture_mm": 15.290800094604492,
+      "effective_vertical_aperture_mm": 15.716249942779541,
+      "fx_pixels": 184.75247202122978,
+      "fy_pixels": 184.75247202122978,
+      "horizontal_fov_deg": 119.99989636258434,
+      "vertical_fov_deg": 104.82170537380166,
+      "source_clip_m": [
+        0.009999999776482582,
+        10000000.0
+      ],
+      "resolution": [
+        640,
+        480
+      ]
+    }
+  },
+  "after": {
+    "head": {
+      "pos": [
+        0.465496359,
+        0.0,
+        0.0
+      ],
+      "quat": [
+        -0.6644630242300699,
+        -0.24184476308373856,
+        0.24184476308373856,
+        0.6644630242300699
+      ],
+      "resolution": [
+        640,
+        480
+      ],
+      "near_m": 0.010000000135059013,
+      "frustum_vertical": [
+        0.016083599999547005,
+        0.016083599999547005
+      ],
+      "frustum_horizontal": [
+        0.02144480124115944,
+        0.02144480124115944
+      ],
+      "clip_m": [
+        0.009999999776482582,
+        4060.298828125
+      ],
+      "finger_pixels": {
+        "open": 0,
+        "closed": 0
+      },
+      "position_error_m": 6.576011957193373e-11,
+      "rotation_error_deg": 0.0,
+      "horizontal_fov_deg": 129.99945254000167,
+      "vertical_fov_deg": 116.25732397918243
+    },
+    "hand": {
+      "pos": [
+        -0.0724817352,
+        1.69620198e-06,
+        0.0323147498
+      ],
+      "quat": [
+        0.1590467060053428,
+        0.6889892730231449,
+        -0.6889879980231449,
+        -0.15903919500534253
+      ],
+      "resolution": [
+        640,
+        480
+      ],
+      "near_m": 0.010000000135059013,
+      "frustum_vertical": [
+        0.012990353628993034,
+        0.012990353628993034
+      ],
+      "frustum_horizontal": [
+        0.01732047088444233,
+        0.01732047088444233
+      ],
+      "clip_m": [
+        0.009999999776482582,
+        4060.298828125
+      ],
+      "finger_pixels": {
+        "open": 31387,
+        "closed": 15225
+      },
+      "position_error_m": 3.459898125198383e-11,
+      "rotation_error_deg": 0.0,
+      "horizontal_fov_deg": 119.99989456384131,
+      "vertical_fov_deg": 104.82170535142892
+    }
+  },
+  "intrinsic_reference": "https://raw.githubusercontent.com/isaac-sim/IsaacLab/v2.3.2/source/isaaclab/isaaclab/sensors/camera/camera.py",
+  "note": "Pose compared in effective rigid-body frames. Source USD is unchanged. Rendering uses MuJoCo materials, not RTX pixel equivalence."
+}

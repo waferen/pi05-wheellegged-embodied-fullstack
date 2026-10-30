@@ -1,0 +1,30 @@
+{
+  "checked_at": 1792910714.5966644,
+  "passed": true,
+  "source_script": "PPSUC2026/scripts/rsl_rl/teleop_dual_cerebellum_arm.py",
+  "original_modes": {
+    "1": "walk",
+    "2": "stair",
+    "4": "low_grasp",
+    "5": "high_grasp"
+  },
+  "source_actor_inference": true,
+  "walk_2s_displacement_m": 0.43631796528963385,
+  "release_stops_command": true,
+  "stair_actor_flat_ground_passed": true,
+  "T_joint1_rad": 0.03494507924029495,
+  "C_gripper_m": 0.0009999213058385968,
+  "P_gripper_m": 0.04500000796493789,
+  "H_home_passed": true,
+  "low_height_m": 0.22181301523280333,
+  "height_before_low_m": 0.5568831856739856,
+  "internal_locks": 16,
+  "PAGE_DOWN_tcp_delta_m": [
+    0.00013801371695468245,
+    -2.322958780713591e-08,
+    -0.00985758321724961
+  ],
+  "limits": "Original hotel entrance stair flight verified; other terrain and dynamic doors/objects not certified. Recording adapter is not enabled by default.",
+  "entrance_stairs_verified": true,
+  "stair_evidence": "stair_trial_wrapped.json"
+}

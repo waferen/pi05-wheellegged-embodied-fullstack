@@ -1,0 +1,57 @@
+{
+  "inspected_at": 1792906827.9288757,
+  "platform": "Linux",
+  "source_files": {
+    "gemma.py": {
+      "sha256": "7e42ada4ae7e9995f0ef3e33a0c224758323c2015e2d9d72ec15726a8a001d2a",
+      "bytes": 17146
+    },
+    "pi0.py": {
+      "sha256": "24b32d7c6ed5e409459afa8ca5af96a4dae09c2dcdf48e828907e411f4f12342",
+      "bytes": 12887
+    },
+    "pi0_config.py": {
+      "sha256": "d321858c30b398126035ea2b6da09e1c422eeeebb5ebf8df631daf9dc77647fa",
+      "bytes": 4435
+    },
+    "train.py": {
+      "sha256": "22f98a06aaa6e68e0f725d727ab95398238d1cae8a46bb94e829f330758a9baf",
+      "bytes": 10488
+    },
+    "training_config.py": {
+      "sha256": "ba04c8ff83402c6c2552a92372e6c8072860adb075aa3845e7ad7168ea3e46bb",
+      "bytes": 48199
+    }
+  },
+  "runtime_verified": true,
+  "requested_profile": {
+    "microbatch": 1,
+    "fsdp_devices": 1,
+    "dtype": "bfloat16",
+    "lora_branches": [
+      "gemma_2b_lora",
+      "gemma_300m_lora"
+    ],
+    "train_only_lora": true,
+    "ema": false,
+    "action_horizon": 50,
+    "camera_contract": "original two cameras and masked third view"
+  },
+  "blockers": [],
+  "training_steps": 10,
+  "elapsed_seconds": 116.093373531,
+  "device": "cuda:0",
+  "device_memory_stats": {
+    "num_allocs": 9172,
+    "bytes_in_use": 0,
+    "peak_bytes_in_use": 8127609088,
+    "largest_alloc_size": 2415919104,
+    "bytes_limit": 9615360000,
+    "bytes_reserved": 0,
+    "peak_bytes_reserved": 0,
+    "largest_free_block_bytes": 0,
+    "pool_bytes": 8596226048,
+    "peak_pool_bytes": 8596226048
+  },
+  "output": "/home/eai/ppsuc/runs/pi05_b2w_piper_local_lora_probe/20261025_134032"
+}

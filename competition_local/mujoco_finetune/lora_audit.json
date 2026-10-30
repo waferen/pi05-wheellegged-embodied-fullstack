@@ -1,0 +1,17 @@
+{
+  "source": "train.log initialized parameter tree, deduplicated across restarts",
+  "trainable_lora_parameters": 49987584,
+  "frozen_parameters": 3353433872,
+  "total_parameters": 3403421456,
+  "trainable_percent": 1.4687450451331938,
+  "lora_groups": {
+    "vlm": 27869184,
+    "action_expert": 22118400
+  },
+  "frozen_bf16_GiB": 6.246257334947586,
+  "lora_weights_grad_and_two_fp32_adam_states_GiB": 0.744873046875,
+  "batch_size": 1,
+  "updates": 500,
+  "observation_samples_per_episode_equivalent": 0.028407476847906368,
+  "note": "Memory figures are parameter/state estimates, exclude activations and allocator buffers; train_result.gpu_memory is null, so no measured training peak is asserted. Resume can repeat observation samples."
+}

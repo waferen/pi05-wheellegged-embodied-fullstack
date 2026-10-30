@@ -1,0 +1,1588 @@
+{
+  "checked_at": 1792911048.5387077,
+  "checked_usd_layers": 395,
+  "all_original_layers_unchanged": true,
+  "elapsed_seconds": 1.8939769268035889,
+  "files": [
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/_piper/piper_flattened.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/b2w.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/b2w_piper.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/b2w_piperhook.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/configuration/b2w_description_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/configuration/b2w_description_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/b2w/configuration/b2w_description_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/piper/piper.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/piper/configuration/piper_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/piper/configuration/piper_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/robot/piper/configuration/piper_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/task03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/_piper/piper_flattened.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/b2w_piper.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/oil_tin.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/Hotel_Room_Asset_v02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/Downloads/room/room.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Cramer.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Crestwood_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Danny.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Dentist.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Desk_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Ellendale.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Hotel_Room_Asset.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/LemayBackPillow.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/LemaySeat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Painting_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Standard_LargeDoors.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Standard_SmallDoor_Single.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/WhiteHome02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_robot.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/obj_1_granada de mano.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/room.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Reception/Modern.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Seating/Jobba/Jobba_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Dentist.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/WhiteHome02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Contemporary/Contemporary_LowHalfDesk.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Standard/Standard_SmallDoor_Single.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Danny.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Kettle.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_51.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_60.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_GetKnowPPU.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Greener.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Holodeck.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_IntroOmni.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Marbles.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Spelling.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Encyclopedia01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_04.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_05.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2015.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2016.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2017.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Clocks/Clock_Hucksbee.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Coasters/Coaster_Hexagon.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/BlackandBrassBowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/Brass_Bowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/DecorativeBowl.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/DecorativeBowlLarge.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Magazines/MagazineStack01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Mirrors/AntiqueMirror.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Mirrors/MirrorRound.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/Painting_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/Painting_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/PictureFrame02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Rugs/Blue_Rugs.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/AbstractBike.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/AbstractElephant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/BridgeBookend.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ChamferBox.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/FlattenedSphere.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/Kiwi.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/MetalLinks.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ObeliskLarge.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ObeliskSmall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/OldBike.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/ArmentoRider.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/BuddhaStatue.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/OmniverseLogo.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Lemon_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/ServingTray.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/AbstractFace_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/Bowl_Footed.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/japan_vase.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/pitcher.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/ShieldTV.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/Shield_Controller.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Televisions/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Entertainment/Games/NewtonsCradle.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Food/Fruit/Apple.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Fenton_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Ferguson_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Desks/Desk_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/DiningSets/EastRural/EastRural_Table.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/EndTables/Ellendale.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Chair.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_LivingRoom_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_SofaTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Crestwood/Crestwood_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/MediaTables/Manchester.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Arnold.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Lemay/LemayBackPillow.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Lemay/LemaySeat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/KitchenFaucets/faucet_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/Kitchenware/Dinnerware/P_Glassware_Short.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Floor Lamps/Candice.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Floor Lamps/FloorLamp.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Cramer.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Eraser.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/MechanicalPencil.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Sketchbook.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Outdoors/Lighting/CircularWallSconce.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Outdoors/Lighting/WallSconce.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_Succulent_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_Succulent_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/BALL.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/C4_1.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/C4_2.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/C4_3.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/C4_4.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/data/CK/chenkai/my_assets/rope net.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/jetbot.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/task03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/test.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/Looks.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/matong.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/xiegui.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/yigui.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/yigui2.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/JCI54558891926_obj/source/yugang.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/_piper/piper_flattened.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/b2w_piper.usda",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/robot/b2w/configuration/b2w_description_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/oil_tin.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/Hotel_Room_Asset_v02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/Downloads/room/room.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Cramer.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Crestwood_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Danny.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Dentist.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Desk_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Ellendale.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Hotel_Room_Asset.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/LemayBackPillow.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/LemaySeat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Painting_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Standard_LargeDoors.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/Standard_SmallDoor_Single.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/WhiteHome02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_base.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_physics.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_robot.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/go2_description_sensor.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/obj_1_granada de mano.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/room.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Reception/Modern.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Seating/Jobba/Jobba_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Dentist.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/WhiteHome02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Contemporary/Contemporary_LowHalfDesk.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Storage/Standard/Standard_SmallDoor_Single.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Danny.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Commercial/Tables/Kettle.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_51.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_60.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_GetKnowPPU.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Greener.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Holodeck.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_IntroOmni.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Marbles.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Spelling.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Encyclopedia01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_04.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_05.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2015.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2016.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2017.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Clocks/Clock_Hucksbee.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Coasters/Coaster_Hexagon.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/BlackandBrassBowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/Brass_Bowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/DecorativeBowl.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/DecorativeBowlLarge.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Magazines/MagazineStack01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Mirrors/AntiqueMirror.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Mirrors/MirrorRound.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/Painting_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/Painting_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/PictureFrame02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Rugs/Blue_Rugs.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/AbstractBike.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/AbstractElephant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/BridgeBookend.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ChamferBox.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/FlattenedSphere.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/Kiwi.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/MetalLinks.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ObeliskLarge.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/ObeliskSmall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/OldBike.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/ArmentoRider.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/BuddhaStatue.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/OmniverseLogo.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Lemon_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/ServingTray.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/AbstractFace_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/Bowl_Footed.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/japan_vase.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/pitcher.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/ShieldTV.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/Shield_Controller.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Televisions/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Entertainment/Games/NewtonsCradle.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Food/Fruit/Apple.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Fenton_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Ferguson_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Desks/Desk_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/DiningSets/EastRural/EastRural_Table.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/EndTables/Ellendale.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Chair.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_LivingRoom_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_SofaTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Crestwood/Crestwood_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/MediaTables/Manchester.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Arnold.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Lemay/LemayBackPillow.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Sofas/Lemay/LemaySeat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/KitchenFaucets/faucet_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/Kitchenware/Dinnerware/P_Glassware_Short.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Floor Lamps/Candice.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Floor Lamps/FloorLamp.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Cramer.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Eraser.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/MechanicalPencil.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Sketchbook.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Outdoors/Lighting/CircularWallSconce.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Outdoors/Lighting/WallSconce.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_Succulent_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_Succulent_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/BALL.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/C4_1.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/C4_2.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/C4_3.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/C4_4.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/data/CK/chenkai/my_assets/rope net.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_60.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_IntroOmni.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2015.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2016.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2017.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Clocks/Clock_Hucksbee.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Coasters/Coaster_Hexagon.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Magazines/MagazineStack01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/PictureFrame02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/OmniverseLogo.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Lemon_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/Bowl_Footed.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/japan_vase.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/pitcher.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/ShieldTV.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/Shield_Controller.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Televisions/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Food/Candy/GummyBear.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Food/Containers/TinCan.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Clayton.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Chair.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_LivingRoom_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_SofaTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/MediaTables/Manchester.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/Kitchenware/Dinnerware/P_Glassware_Short.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Assets/Warehouse/Equipment/Carts/ComputerCart_A/ComputerCart_A01_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_60.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_GetKnowPPU.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Greener.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Holodeck.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_IntroOmni.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Marbles.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Book_Spelling.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/Encyclopedia01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_04.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OV_CreateBook_05.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2015.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2016.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Books/OmniConnect2017.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Clocks/Clock_Hucksbee.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Coasters/Coaster_Hexagon.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/BlackandBrassBowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/Brass_Bowl_Small.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Kitchenware/DecorativeBowl.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Magazines/MagazineStack01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Pictures/PictureFrame02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Rugs/Blue_Rugs.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/AbstractElephant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Sculptures/Kiwi.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/ArmentoRider.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/BuddhaStatue.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Statues/OmniverseLogo.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Lemon_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Tchotchkes/Orange_03.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/Bowl_Footed.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/japan_vase.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Decor/Vases/pitcher.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/ShieldTV.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Nvidia_Shield/Shield_Controller.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Electronics/Televisions/TV_Wall.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Entertainment/Games/NewtonsCradle.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Food/Containers/TinCan.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Clayton.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/Bookshelves/Rockhill_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Chair.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_CoffeeTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_EndTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_LivingRoom_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Loveseat.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_Sofa.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/FurnitureSets/Appleseed/Appleseed_SofaTable_Var01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Furniture/MediaTables/Manchester.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Kitchen/Kitchenware/Dinnerware/P_Glassware_Short.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Lighting/Table Lamps/Mechant.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Eraser.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/MechanicalPencil.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Misc/Supplies/Sketchbook.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/ArchVis/Residential/Plants/Plant_02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Assets/Warehouse/Equipment/Carts/ComputerCart_A/ComputerCart_A01_01.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/target_object_delivery_collect_20260829_233522/assets/target_object_01/target_object_01_centered_meters.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/target_object_delivery_collect_20260829_233522/assets/target_object_02/target_object_02_centered_meters_scale015.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/target_object_delivery_collect_20260829_233522/assets/target_object_03/target_object_03_centered_meters_scale02.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/target_object_delivery_collect_20260829_233522/assets/target_object_04/World1.usd",
+      "matches_migration_sha256": true
+    },
+    {
+      "path": "PPSUC2026/ppsuc_robot_model/scene/target_object_delivery_collect_20260829_233522/assets/target_object_04/SubUSDs/oil_tin.usd",
+      "matches_migration_sha256": true
+    }
+  ]
+}

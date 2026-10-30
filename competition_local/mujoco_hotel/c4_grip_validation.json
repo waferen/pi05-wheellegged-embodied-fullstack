@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "object": "World_C4_easy_C4_1",
+  "object_mass_kg": 0.00999999977648,
+  "closed_finger_positions": [
+    0.014756605545427754,
+    -0.0147575238625851
+  ],
+  "contact_bodies_before_lift": [
+    "World_b2w_piper_arm_link7",
+    "World_b2w_piper_arm_link7",
+    "World_b2w_piper_arm_link7",
+    "World_b2w_piper_arm_link7",
+    "World_b2w_piper_arm_link8",
+    "World_b2w_piper_arm_link8",
+    "World_b2w_piper_arm_link8",
+    "World_b2w_piper_arm_link8"
+  ],
+  "prescribed_gripper_lift_m": 0.12,
+  "object_rise_m": 0.11187894219795602,
+  "object_open_xyz": [
+    -0.007819733932947562,
+    0.00012815777939424386,
+    0.4088602089488133
+  ],
+  "object_closed_xyz": [
+    -0.00991701116312077,
+    -0.0014670876627010457,
+    0.4120378561714323
+  ],
+  "object_final_xyz": [
+    -0.011993042604927041,
+    -0.0012910176499764843,
+    0.5239167983693883
+  ],
+  "actual_lift_m": 0.1189992430631253,
+  "scope": "Actual source finger/C4 geometry, original finger gains, frictional contacts only. Bench lift is prescribed; full hotel teleop pickup is not certified."
+}

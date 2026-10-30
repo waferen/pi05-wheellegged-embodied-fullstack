@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-28",
+  "collection_unit_tests_passed": 6,
+  "existing_contract_tests_passed": 16,
+  "visible_smoke_frames": 131,
+  "interrupted_partial_frames": 4,
+  "conversion_passed": true,
+  "decoded_frames_per_camera": [
+    {
+      "camera": "front",
+      "frames": 131
+    },
+    {
+      "camera": "wrist",
+      "frames": 131
+    }
+  ],
+  "rgb_mae_range": [
+    1.1221592881944444,
+    1.7354503038194444
+  ],
+  "openpi_B_minus_1_action_phase_verified": true,
+  "test_data_is_demonstration": false,
+  "training_started": false,
+  "uploaded": false,
+  "files_sha256": {
+    "original_teleop.py": "9caaf8ea242ca507f3af374d08512e7bf055436f10f1ae74a409c7f51679ff78",
+    "native_viewer.py": "e12106326a92a3b242810ab2d810d9a6ecf8181968a91290c3d7e87f0df9e4fb",
+    "collect_mujoco.py": "e5ed0b6551067e4d10623f6cdbe6e0c09faab1e977dd1abc5985ad17d9fdf972",
+    "convert_mujoco_to_lerobot.py": "4d6b92d4066394e9fa66eb399b5896f375624da3f0c2da34d367fde02007b7c3",
+    "collection/schema.py": "1dd009f93a3113ec6001bba55d3eec03e1c2a158d42be152416dc2d810bcd657",
+    "collection/sensors.py": "6b7f6205c948c783de53fec08d143e9f1bb9e85b266567d2c0ba54cc09a25bd1",
+    "collection/adapter.py": "7f998998a239b6e4f40e31dffe0188c835bdb33154a91442904dd9afc6f8397e",
+    "collection/pipeline.py": "931886a55057ef18e4790ce904b6b7846b458d2e751ae304a4741060807f6b37",
+    "collection/smoke.py": "26df6d653f886bc2ccb9f695bf9e4a7ac69fdd2de197e2f4151ac8df53c5f6ed",
+    "collection/stage_panel.py": "5b0e6dcd3ffe6c19e63d95b7970516f8133d01656229d2ba975edc8bc6757be8",
+    "collection/test_pipeline.py": "d7fceaab79ab78c60b2936cd6ab8bb7d98691996a1a2ea3d1760681c0c491278"
+  }
+}

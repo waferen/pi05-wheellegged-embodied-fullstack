@@ -1,0 +1,503 @@
+[
+  {
+    "path": "/World/Wall_Back",
+    "bounds": [
+      [
+        -3.55,
+        6.0,
+        -1.5
+      ],
+      [
+        -2.55,
+        8.0,
+        2.5
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Looks/Mortar_Antique_White",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/SubUSDs/materials/Mortar.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Mortar_Antique_White"
+      }
+    ]
+  },
+  {
+    "path": "/World/Outway/Cube_11",
+    "bounds": [
+      [
+        19.64999999999999,
+        -5.999999999999998,
+        -2.5000000000000004
+      ],
+      [
+        25.64999999999999,
+        20.0,
+        -0.5500000000000004
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Looks/Concrete_Rough",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./data/CK/chenkai/ATEC2026_Simulation_Challenge/atec_robot_model/scene/Collected_Bomb_Disposal_Task_v03/omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/Base/Masonry/Concrete_Rough.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Concrete_Rough"
+      }
+    ]
+  },
+  {
+    "path": "/World/Outway/Cube",
+    "bounds": [
+      [
+        -3.549999999999999,
+        20.0,
+        -2.5
+      ],
+      [
+        19.65,
+        21.0,
+        2.5
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Room_03/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/Outway/Cube_01",
+    "bounds": [
+      [
+        -3.549999999999999,
+        -7.000000000000003,
+        -2.5
+      ],
+      [
+        19.65,
+        -6.000000000000003,
+        2.5
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Room_03/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/Guest_Room/Room_03/room/Room/backdrop_external",
+    "bounds": [
+      [
+        -2.5499999523162833,
+        19.949999999627472,
+        -2.5000000000000004
+      ],
+      [
+        2.549999952316285,
+        20.00000000037253,
+        2.5000000000000004
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Room_03/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/Guest_Room/Room_05/room/Room/backdrop_external",
+    "bounds": [
+      [
+        4.550000047683716,
+        19.949999999627472,
+        -2.5000000000000004
+      ],
+      [
+        9.649999952316286,
+        20.00000000037253,
+        2.5000000000000004
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Room_05/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/Guest_Room/Suit_01/Room_06/room/Room/backdrop_external",
+    "bounds": [
+      [
+        4.549937183511335,
+        -6.000002149450001,
+        -2.5000000000000004
+      ],
+      [
+        9.649937356721324,
+        -5.949974746300649,
+        2.5000000000000004
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Suit_01/Room_06/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/Guest_Room/Suit_01/Room_04/room/Room/backdrop_external",
+    "bounds": [
+      [
+        -2.5500628640699787,
+        -5.999974747171703,
+        -2.5000000000000004
+      ],
+      [
+        4.549937404478573,
+        -5.949936597980455,
+        2.5000000000000004
+      ]
+    ],
+    "faces": 6,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        24
+      ]
+    ],
+    "material": "/World/Guest_Room/Suit_01/Room_04/Looks/Plaster_Wall_Weathered",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@./omniverse-content-production.s3.us-west-2.amazonaws.com/Materials/2023_1/vMaterials_2/Plaster/Plaster_Wall.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "Plaster_Wall_Weathered"
+      }
+    ]
+  },
+  {
+    "path": "/World/BALL/Proofball/node_6b8530f_17b9_463a_9f44_18f7d6931256/mesh_6b8530f_17b9_463a_9f44_18f7d6931256",
+    "bounds": [
+      [
+        22.492865844695235,
+        2.448360770322653,
+        -0.42024166107177724
+      ],
+      [
+        23.184455734221604,
+        3.115519660093161,
+        0.2711669921875004
+      ]
+    ],
+    "faces": 1548,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        1162
+      ]
+    ],
+    "material": "/World/BALL/Proofball/Looks/material_489f728_7856_4f91_88fd_4337ae48a979",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@OmniPBR.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "OmniPBR",
+        "inputs:diffuse_color_constant": "(0.5, 0.5, 0.5)",
+        "inputs:diffuse_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-003.jpg@",
+        "inputs:emissive_color": "(1, 1, 1)",
+        "inputs:emissive_intensity": "10000.0",
+        "inputs:enable_emission": "False",
+        "inputs:enable_opacity": "True",
+        "inputs:enable_opacity_texture": "False",
+        "inputs:opacity_constant": "1.0",
+        "inputs:opacity_mode": "1",
+        "inputs:opacity_threshold": "0.0",
+        "inputs:texture_rotate": "0.0",
+        "inputs:texture_scale": "(1, 1)",
+        "inputs:texture_translate": "(0, 0)"
+      }
+    ]
+  },
+  {
+    "path": "/World/BALL/Proofball/node_d3eafeb_da2d_4af0_8bbc_98c4db274fb9/mesh_d3eafeb_da2d_4af0_8bbc_98c4db274fb9",
+    "bounds": [
+      [
+        22.472104812590743,
+        2.427506621457907,
+        -0.44436004638671867
+      ],
+      [
+        23.205219474761154,
+        3.160621283628317,
+        0.06780509948730495
+      ]
+    ],
+    "faces": 676,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        546
+      ]
+    ],
+    "material": "/World/BALL/Proofball/Looks/a5cace1b_9e78_4c90_b274_2b4e52a1e728",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@OmniPBR.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "OmniPBR",
+        "inputs:diffuse_color_constant": "(0.5, 0.5, 0.5)",
+        "inputs:diffuse_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-006.jpg@",
+        "inputs:emissive_color": "(1, 1, 1)",
+        "inputs:emissive_intensity": "10000.0",
+        "inputs:enable_emission": "False",
+        "inputs:enable_opacity": "True",
+        "inputs:enable_opacity_texture": "False",
+        "inputs:normalmap_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-007.jpg@",
+        "inputs:opacity_constant": "1.0",
+        "inputs:opacity_mode": "1",
+        "inputs:opacity_threshold": "0.0",
+        "inputs:texture_rotate": "0.0",
+        "inputs:texture_scale": "(1, 1)",
+        "inputs:texture_translate": "(0, 0)"
+      }
+    ]
+  },
+  {
+    "path": "/World/BALL/Proofball/node_ab70e4f_8788_42f9_adeb_19bf04ceaa08/mesh_ab70e4f_8788_42f9_adeb_19bf04ceaa08",
+    "bounds": [
+      [
+        22.45387776943889,
+        2.339198325254294,
+        -0.4455283737182616
+      ],
+      [
+        23.22368894192424,
+        3.2493477850931614,
+        -0.3860361289978026
+      ]
+    ],
+    "faces": 75,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        89
+      ]
+    ],
+    "material": "/World/BALL/Proofball/Looks/f1312585_8c4e_4316_9b94_0c3fc12c1669",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@OmniPBR_Opacity.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "OmniPBR_Opacity",
+        "inputs:diffuse_color_constant": "(0.5, 0.5, 0.5)",
+        "inputs:diffuse_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-008.jpg@",
+        "inputs:emissive_color": "(1, 1, 1)",
+        "inputs:emissive_intensity": "10000.0",
+        "inputs:enable_emission": "False",
+        "inputs:enable_opacity": "True",
+        "inputs:enable_opacity_texture": "True",
+        "inputs:normalmap_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-010.jpg@",
+        "inputs:opacity_constant": "1.0",
+        "inputs:opacity_mode": "1",
+        "inputs:opacity_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-009.jpg@",
+        "inputs:opacity_threshold": "0.0",
+        "inputs:texture_rotate": "0.0",
+        "inputs:texture_scale": "(1, 1)",
+        "inputs:texture_translate": "(0, 0)"
+      }
+    ]
+  },
+  {
+    "path": "/World/BALL/Proofball/node_5267caf_e823_40c7_931c_a87cc75b2a39/mesh_5267caf_e823_40c7_931c_a87cc75b2a39",
+    "bounds": [
+      [
+        22.16091882321086,
+        2.300960715391012,
+        -0.5132452774047851
+      ],
+      [
+        23.516267944304612,
+        3.2871411353128877,
+        -0.2902154731750487
+      ]
+    ],
+    "faces": 5719,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        6841
+      ]
+    ],
+    "material": "/World/BALL/Proofball/Looks/material_946b5ca_71d7_4114_821d_9b13d9b89451",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@OmniPBR.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "OmniPBR",
+        "inputs:diffuse_color_constant": "(0.5, 0.5, 0.5)",
+        "inputs:diffuse_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-011.jpg@",
+        "inputs:emissive_color": "(1, 1, 1)",
+        "inputs:emissive_intensity": "10000.0",
+        "inputs:enable_emission": "False",
+        "inputs:enable_opacity": "True",
+        "inputs:enable_opacity_texture": "False",
+        "inputs:normalmap_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/ca850dc0837afb44/textures/3d66-export-JCI54558622971-012.jpg@",
+        "inputs:opacity_constant": "1.0",
+        "inputs:opacity_mode": "1",
+        "inputs:opacity_threshold": "0.0",
+        "inputs:texture_rotate": "0.0",
+        "inputs:texture_scale": "(1, 1)",
+        "inputs:texture_translate": "(0, 0)"
+      }
+    ]
+  },
+  {
+    "path": "/World/BALL/Net/a5ab84be_3219_4462_b7fc_c1dbfa2bd826/a5ab84be_3219_4462_b7fc_c1dbfa2bd826",
+    "bounds": [
+      [
+        22.585674213698734,
+        2.624561474570584,
+        -0.3093992218887641
+      ],
+      [
+        23.093036213210453,
+        2.98716481471951,
+        -0.19035142373202574
+      ]
+    ],
+    "faces": 39216,
+    "orientation": "rightHanded",
+    "doubleSided": false,
+    "uv": [
+      [
+        "st",
+        "faceVarying",
+        26769
+      ]
+    ],
+    "material": "/World/BALL/Net/Looks/e17b4c9f_95ed_49ee_addc_513fd1622177",
+    "shader": [
+      {
+        "info:implementationSource": "sourceAsset",
+        "info:mdl:sourceAsset": "@OmniPBR.mdl@",
+        "info:mdl:sourceAsset:subIdentifier": "OmniPBR",
+        "inputs:diffuse_color_constant": "(0.8, 0.8, 0.8)",
+        "inputs:diffuse_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/8a194656ecc7c1f0/textures/3d66-export-JCI54554270448-001.jpg@",
+        "inputs:emissive_color": "(1, 1, 1)",
+        "inputs:emissive_intensity": "10000.0",
+        "inputs:enable_emission": "False",
+        "inputs:enable_opacity": "True",
+        "inputs:enable_opacity_texture": "False",
+        "inputs:normalmap_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/8a194656ecc7c1f0/textures/3d66-export-JCI54554270448-003.jpg@",
+        "inputs:opacity_constant": "1.0",
+        "inputs:opacity_mode": "1",
+        "inputs:opacity_threshold": "0.0",
+        "inputs:reflection_roughness_texture_influence": "1.0",
+        "inputs:reflectionroughness_texture": "@D:/EAI Competition Of PPSUC/competition_local/cloud_snapshot/PPSUC2026/ppsuc_robot_model/scene/Competition_hotel/Collected_task03/hotel/tmp/8a194656ecc7c1f0/textures/3d66-export-JCI54554270448-002.jpg@",
+        "inputs:texture_rotate": "0.0",
+        "inputs:texture_scale": "(1, 1)",
+        "inputs:texture_translate": "(0, 0)"
+      }
+    ]
+  }
+]

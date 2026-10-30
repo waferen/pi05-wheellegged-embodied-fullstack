@@ -1,0 +1,27 @@
+{
+  "checked_at": 1792906826.708465,
+  "linux": "Linux-6.18.54.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "jax": "0.5.3",
+  "jax_devices": [
+    "cuda:0"
+  ],
+  "device_kind": "NVIDIA GeForce RTX 5070",
+  "bf16_matmul_passed": true,
+  "torch": "2.7.1+cpu",
+  "torch_cuda": null,
+  "mujoco": "3.17.0",
+  "mujoco_steps": 10,
+  "mujoco_nq": 8,
+  "memory_stats": {
+    "num_allocs": 104,
+    "bytes_in_use": 1048576,
+    "peak_bytes_in_use": 70254080,
+    "largest_alloc_size": 33554432,
+    "bytes_limit": 9615360000,
+    "bytes_reserved": 0,
+    "peak_bytes_reserved": 0,
+    "largest_free_block_bytes": 0,
+    "pool_bytes": 136314880,
+    "peak_pool_bytes": 136314880
+  }
+}

@@ -1,0 +1,1135 @@
+{
+  "counts": {
+    "": 6,
+    "Xform": 134,
+    "Scope": 4,
+    "Material": 10,
+    "Shader": 10,
+    "RenderProduct": 1,
+    "RenderSettings": 1,
+    "RenderVar": 1,
+    "PhysicsRevoluteJoint": 22,
+    "Mesh": 37,
+    "GeomSubset": 15,
+    "Cube": 7,
+    "Camera": 2,
+    "Capsule": 4,
+    "PhysicsFixedJoint": 2,
+    "PhysicsPrismaticJoint": 2
+  },
+  "meters_per_unit": 1.0,
+  "up_axis": "Z",
+  "bounds": "[(-0.44078051298856735, -0.2602606755001794, -0.8125693386147671)...(0.44204970449209213, 0.2598353619111129, 0.35852827562837486)]",
+  "rigid_bodies": [
+    {
+      "path": "/b2w_description/base_link",
+      "mass": 40.08949661254883,
+      "com": "(0.024252744, 0.004666845, 0.011786907)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0, 0, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/FL_hip",
+      "mass": 2.6730000972747803,
+      "com": "(-0.003841, -0.009068, 0)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, 0.07199999690055847, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/FL_thigh",
+      "mass": 4.535999774932861,
+      "com": "(-0.006279, -0.032049, -0.057835)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, 0.19172999262809753, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/FL_calf",
+      "mass": 2.290600061416626,
+      "com": "(0.005278, 0.017301, -0.29778)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, 0.19164179265499115, -0.3499999940395355, 1) )"
+    },
+    {
+      "path": "/b2w_description/FL_foot",
+      "mass": 1.0829999446868896,
+      "com": "(-0.000991, 0.051053, -0.00113)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, 0.19164179265499115, -0.699999988079071, 1) )"
+    },
+    {
+      "path": "/b2w_description/FR_hip",
+      "mass": 2.6730000972747803,
+      "com": "(-0.003841, 0.009068, 0)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, -0.07199999690055847, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/FR_thigh",
+      "mass": 4.535999774932861,
+      "com": "(-0.006279, 0.032049, -0.057835)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, -0.19172999262809753, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/FR_calf",
+      "mass": 2.2905569076538086,
+      "com": "(0.005278, -0.017301, -0.297775)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, -0.19164179265499115, -0.3499999940395355, 1) )"
+    },
+    {
+      "path": "/b2w_description/FR_foot",
+      "mass": 1.0829999446868896,
+      "com": "(-0.000991, -0.051053, -0.00113)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.32850000262260437, -0.19264179468154907, -0.699999988079071, 1) )"
+    },
+    {
+      "path": "/b2w_description/RL_hip",
+      "mass": 2.6730000972747803,
+      "com": "(0.003841, -0.009068, 0)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, 0.07199999690055847, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/RL_thigh",
+      "mass": 4.535999774932861,
+      "com": "(-0.006279, -0.032049, -0.057835)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, 0.19172999262809753, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/RL_calf",
+      "mass": 2.290600061416626,
+      "com": "(0.005278, 0.017301, -0.29778)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, 0.19164179265499115, -0.3499999940395355, 1) )"
+    },
+    {
+      "path": "/b2w_description/RL_foot",
+      "mass": 1.0829999446868896,
+      "com": "(-0.000991, 0.051053, -0.00113)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, 0.19164179265499115, -0.699999988079071, 1) )"
+    },
+    {
+      "path": "/b2w_description/RR_hip",
+      "mass": 2.6730000972747803,
+      "com": "(0.003841, 0.009068, 0)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, -0.07199999690055847, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/RR_thigh",
+      "mass": 4.535999774932861,
+      "com": "(-0.006279, 0.032049, -0.057835)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, -0.19172999262809753, 0, 1) )"
+    },
+    {
+      "path": "/b2w_description/RR_calf",
+      "mass": 2.290600061416626,
+      "com": "(0.005278, -0.017301, -0.29778)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, -0.19164179265499115, -0.3499999940395355, 1) )"
+    },
+    {
+      "path": "/b2w_description/RR_foot",
+      "mass": 1.0829999446868896,
+      "com": "(-0.000991, -0.051053, -0.00113)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (-0.32850000262260437, -0.19264179468154907, -0.699999988079071, 1) )"
+    },
+    {
+      "path": "/b2w_description/gripper_base",
+      "mass": 0.44999998807907104,
+      "com": "(-0.00018380716, 0.00008050331, 0.032143667)",
+      "world_transform": "( (0.08709366995972756, -0.0000041463025034254, -0.996200126799708, 0), (0.000010267292873563084, 0.9999999999419629, -0.0000032644909379023254, 0), (0.996200126755427, -0.000009943961966201096, 0.08709366999724422, 0), (0.25614253133535386, -5.960464477539063e-8, 0.3131931334733963, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_base",
+      "mass": 1.0199999809265137,
+      "com": "(-0.004736412, 0.000025682913, 0.041451517)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.2, 0, 0.1, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link1",
+      "mass": 0.7099999785423279,
+      "com": "(0.00012150473, 0.00010463216, -0.0043859733)",
+      "world_transform": "( (1, 0, 0, 0), (0, 1, 0, 0), (0, 0, 1, 0), (0.2, 0, 0.22300000339746476, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link2",
+      "mass": 1.1699999570846558,
+      "com": "(0.19866614, -0.010926924, 0.0014212171)",
+      "world_transform": "( (-0.9907797989127114, 0.000007174221311009865, 0.13548206528916745, 0), (0.13548206531093265, 0.000002637840798458413, 0.9907797989321978, 0), (0.000006750693428730914, 0.9999999999707863, -0.000003585497696301232, 0), (0.2, 0, 0.22300000339746476, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link3",
+      "mass": 0.5,
+      "com": "(-0.020273766, -0.13391499, -0.00045868265)",
+      "world_transform": "( (0.08709333910475658, -0.000004163593043338132, -0.9962001557248665, 0), (-0.9962001557109562, 0.000006373562347894435, -0.08709333913017869, 0), (0.000006711965024386313, 0.9999999999710212, -0.000003592677211283757, 0), (-0.08240194916725158, 0.000002045184373855591, 0.2616164594888687, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link4",
+      "mass": 0.3799999952316284,
+      "com": "(-0.00009666358, 0.00087606447, -0.004968809)",
+      "world_transform": "( (0.0870934941841387, -0.000004146302025370421, -0.9962001421670275, 0), (0.000010267293574256381, 0.9999999999419629, -0.0000032644921580308104, 0), (0.9962001421227464, -0.000009943963289565191, 0.08709349422165535, 0), (0.16548061072826387, 5.327165126800537e-7, 0.30535555481910703, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link5",
+      "mass": 0.382999986410141,
+      "com": "(-0.000041055413, -0.056648668, -0.0037205792)",
+      "world_transform": "( (0.08709347366426401, -0.000004080274341622392, -0.9962001439612642, 0), (-0.9962001439468663, 0.0000064020990024893365, -0.08709347368922732, 0), (0.00000673313721399893, 0.9999999999711824, -0.000003507188845564002, 0), (0.16548061072826387, 5.327165126800537e-7, 0.30535555481910703, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link6",
+      "mass": 0.006990896072238684,
+      "com": "(-0.000088259076, 0.000009059838, -0.002)",
+      "world_transform": "( (0.08709366995972756, -0.0000041463025034254, -0.996200126799708, 0), (0.000010267292873563084, 0.9999999999419629, -0.0000032644909379023254, 0), (0.996200126755427, -0.000009943961966201096, 0.08709366999724422, 0), (0.25614253133535386, -5.960464477539063e-8, 0.3131931334733963, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link7",
+      "mass": 0.02500000037252903,
+      "com": "(0.00065123185, -0.049192987, 0.009722588)",
+      "world_transform": "( (0.0870935515663478, -0.0000042652305140000735, -0.9962001371498441, 0), (0.9962001370639847, -0.000013436705520675218, 0.08709355161637095, 0), (-0.000013757121956226026, -0.9999999999006317, 0.0000030787728173553575, 0), (0.391426545381546, -0.000001409995206813619, 0.32502045333385465, 1) )"
+    },
+    {
+      "path": "/b2w_description/arm_link8",
+      "mass": 0.02500000037252903,
+      "com": "(0.00065123185, -0.049192987, 0.009722588)",
+      "world_transform": "( (-0.08709336801135392, 0.000011225707509054939, 0.9962001531431435, 0), (0.996200153180089, -0.000006285411218165393, 0.08709336808541107, 0), (0.000007239212294007924, 0.9999999999172386, -0.00001063563390801825, 0), (0.391426545381546, -0.000001409995206813619, 0.32502045333385465, 1) )"
+    }
+  ],
+  "joints": [
+    {
+      "path": "/b2w_description/joints/FL_hip_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/base_link"
+      ],
+      "body1": [
+        "/b2w_description/FL_hip"
+      ],
+      "attrs": {
+        "physics:axis": "X",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "2.556739330291748",
+        "physics:localPos0": "(0.3285, 0.072, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-49.84732437133789",
+        "physics:upperLimit": "49.84732437133789"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FL_thigh_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FL_hip"
+      ],
+      "body1": [
+        "/b2w_description/FL_thigh"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.887303113937378",
+        "physics:localPos0": "(0, 0.11973, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-53.858028411865234",
+        "physics:upperLimit": "268.7171936035156"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FL_calf_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FL_thigh"
+      ],
+      "body1": [
+        "/b2w_description/FL_calf"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.9025057554244995",
+        "physics:localPos0": "(0, -0.000088203, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-161.57408142089844",
+        "physics:upperLimit": "-24.637184143066406"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FL_foot_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FL_calf"
+      ],
+      "body1": [
+        "/b2w_description/FL_foot"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.20016787946224213",
+        "physics:localPos0": "(0, 0, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-inf",
+        "physics:upperLimit": "inf"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FR_hip_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/base_link"
+      ],
+      "body1": [
+        "/b2w_description/FR_hip"
+      ],
+      "attrs": {
+        "physics:axis": "X",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "2.565795660018921",
+        "physics:localPos0": "(0.3285, -0.072, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-49.84732437133789",
+        "physics:upperLimit": "49.84732437133789"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FR_thigh_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FR_hip"
+      ],
+      "body1": [
+        "/b2w_description/FR_thigh"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.8965166807174683",
+        "physics:localPos0": "(0, -0.11973, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-53.858028411865234",
+        "physics:upperLimit": "268.7171936035156"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FR_calf_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FR_thigh"
+      ],
+      "body1": [
+        "/b2w_description/FR_calf"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.905523657798767",
+        "physics:localPos0": "(0, 0.000088205, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-161.57408142089844",
+        "physics:upperLimit": "-24.637184143066406"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/FR_foot_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/FR_calf"
+      ],
+      "body1": [
+        "/b2w_description/FR_foot"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.20032837986946106",
+        "physics:localPos0": "(0, -0.001, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-inf",
+        "physics:upperLimit": "inf"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RL_hip_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/base_link"
+      ],
+      "body1": [
+        "/b2w_description/RL_hip"
+      ],
+      "attrs": {
+        "physics:axis": "X",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "2.571146011352539",
+        "physics:localPos0": "(-0.3285, 0.072, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-49.84732437133789",
+        "physics:upperLimit": "49.84732437133789"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RL_thigh_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RL_hip"
+      ],
+      "body1": [
+        "/b2w_description/RL_thigh"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.8887128829956055",
+        "physics:localPos0": "(0, 0.11973, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-53.858028411865234",
+        "physics:upperLimit": "268.7171936035156"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RL_calf_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RL_thigh"
+      ],
+      "body1": [
+        "/b2w_description/RL_calf"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.9028301239013672",
+        "physics:localPos0": "(0, -0.000088205, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-161.57408142089844",
+        "physics:upperLimit": "-24.637184143066406"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RL_foot_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RL_calf"
+      ],
+      "body1": [
+        "/b2w_description/RL_foot"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.20016829669475555",
+        "physics:localPos0": "(0, 0, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-inf",
+        "physics:upperLimit": "inf"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RR_hip_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/base_link"
+      ],
+      "body1": [
+        "/b2w_description/RR_hip"
+      ],
+      "attrs": {
+        "physics:axis": "X",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "2.58032488822937",
+        "physics:localPos0": "(-0.3285, -0.072, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-49.84732437133789",
+        "physics:upperLimit": "49.84732437133789"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RR_thigh_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RR_hip"
+      ],
+      "body1": [
+        "/b2w_description/RR_thigh"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.8979675769805908",
+        "physics:localPos0": "(0, -0.11973, 0)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-53.858028411865234",
+        "physics:upperLimit": "268.7171936035156"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RR_calf_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RR_thigh"
+      ],
+      "body1": [
+        "/b2w_description/RR_calf"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "1.9058886766433716",
+        "physics:localPos0": "(0, 0.000088205, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-161.57408142089844",
+        "physics:upperLimit": "-24.637184143066406"
+      }
+    },
+    {
+      "path": "/b2w_description/joints/RR_foot_joint",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/RR_calf"
+      ],
+      "body1": [
+        "/b2w_description/RR_foot"
+      ],
+      "attrs": {
+        "physics:axis": "Y",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.20032882690429688",
+        "physics:localPos0": "(0, -0.001, -0.35)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-inf",
+        "physics:upperLimit": "inf"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/joint6_to_gripper_base",
+      "type": "PhysicsFixedJoint",
+      "body0": [
+        "/b2w_description/arm_link6"
+      ],
+      "body1": [
+        "/b2w_description/gripper_base"
+      ],
+      "attrs": {
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.0025340260472148657",
+        "physics:localPos0": "(5.551115e-17, 5.293956e-23, 0)",
+        "physics:localPos1": "(5.551115e-17, 5.293956e-23, 0)",
+        "physics:localRot0": "(1, 1.5531762e-15, -1.7125059e-8, 2.7375124e-13)",
+        "physics:localRot1": "(1, 1.5531762e-15, -1.7125059e-8, 2.7375124e-13)"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint1",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_base"
+      ],
+      "body1": [
+        "/b2w_description/arm_link1"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.012992467731237411",
+        "physics:localPos0": "(0, 0, 0.123)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)",
+        "physics:lowerLimit": "-150.00035095214844",
+        "physics:upperLimit": "150.00035095214844"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint2",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_link1"
+      ],
+      "body1": [
+        "/b2w_description/arm_link2"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.025270478799939156",
+        "physics:localPos0": "(-3.5737874e-28, -5.293956e-23, 0)",
+        "physics:localPos1": "(0, 0, -5.293956e-23)",
+        "physics:localRot0": "(-0.048008468, 0.048013408, 0.7054761, 0.7054739)",
+        "physics:localRot1": "(1, -3.8241532e-10, -5.6189497e-9, -5.618932e-9)",
+        "physics:lowerLimit": "0.0",
+        "physics:upperLimit": "179.9087371826172"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint3",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_link2"
+      ],
+      "body1": [
+        "/b2w_description/arm_link3"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.049597762525081635",
+        "physics:localPos0": "(0.28502998, 5.286098e-9, 3.1617692e-10)",
+        "physics:localPos1": "(2.7755576e-17, 5.551115e-17, 2.1175824e-22)",
+        "physics:localRot0": "(-0.62399614, 9.553454e-9, -3.4162383e-8, 0.78142744)",
+        "physics:localRot1": "(1, -1.3053476e-8, 1.1962242e-8, -1.9110873e-8)",
+        "physics:lowerLimit": "-169.99656677246094",
+        "physics:upperLimit": "0.0"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint4",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_link3"
+      ],
+      "body1": [
+        "/b2w_description/arm_link4"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.14631834626197815",
+        "physics:localPos0": "(-0.021983974, -0.25075004, -5.829247e-9)",
+        "physics:localPos1": "(6.488971e-10, 1.965388e-14, 7.4222695e-9)",
+        "physics:localRot0": "(0.7071055, 0.707108, -7.8684415e-8, -6.6456515e-8)",
+        "physics:localRot1": "(1, -8.221418e-8, -2.4795332e-8, 4.8904094e-13)",
+        "physics:lowerLimit": "-99.98113250732422",
+        "physics:upperLimit": "99.98113250732422"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint5",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_link4"
+      ],
+      "body1": [
+        "/b2w_description/arm_link5"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.016076963394880295",
+        "physics:localPos0": "(0, 0, -3.469447e-18)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(-0.7071055, 0.707108, -5.71443e-9, -2.6952451e-8)",
+        "physics:localRot1": "(1, 7.8776445e-8, 1.3561706e-8, 3.1692604e-9)",
+        "physics:lowerLimit": "-69.90084838867188",
+        "physics:upperLimit": "69.90084838867188"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint6",
+      "type": "PhysicsRevoluteJoint",
+      "body0": [
+        "/b2w_description/arm_link5"
+      ],
+      "body1": [
+        "/b2w_description/arm_link6"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.012935088016092777",
+        "physics:localPos0": "(0.00008826461, -0.09100002, -9.369875e-9)",
+        "physics:localPos1": "(5.551115e-17, 5.293956e-23, 0)",
+        "physics:localRot0": "(0.7071055, 0.707108, -5.8431354e-8, -1.0511883e-7)",
+        "physics:localRot1": "(1, -6.794499e-8, -1.7125535e-8, 1.9586524e-13)",
+        "physics:lowerLimit": "-120.0002670288086",
+        "physics:upperLimit": "120.0002670288086"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint7",
+      "type": "PhysicsPrismaticJoint",
+      "body0": [
+        "/b2w_description/gripper_base"
+      ],
+      "body1": [
+        "/b2w_description/arm_link7"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.00033699339837767184",
+        "physics:localPos0": "(1.1354825e-9, 1.6495035e-15, 0.1358)",
+        "physics:localPos1": "(-2.5955902e-9, -2.9689078e-8, -4.475317e-14)",
+        "physics:localRot0": "(0.7071056, 0.707108, -5.236231e-9, -9.86892e-8)",
+        "physics:localRot1": "(1, 6.5148754e-8, 5.97004e-8, 6.459123e-8)",
+        "physics:lowerLimit": "0.0",
+        "physics:upperLimit": "0.03500000014901161"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_joints/arm_joint8",
+      "type": "PhysicsPrismaticJoint",
+      "body0": [
+        "/b2w_description/gripper_base"
+      ],
+      "body1": [
+        "/b2w_description/arm_link8"
+      ],
+      "attrs": {
+        "physics:axis": "Z",
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:JointEquivalentInertia": "0.00034046717337332666",
+        "physics:localPos0": "(1.1354825e-9, 1.6495035e-15, 0.1358)",
+        "physics:localPos1": "(2.5955846e-9, -2.9689078e-8, 2.3900201e-13)",
+        "physics:localRot0": "(0.7071081, 0.7071055, -0.000002551439, -0.0000025624704)",
+        "physics:localRot1": "(7.637651e-8, 1.437183e-7, 1, -6.4439676e-9)",
+        "physics:lowerLimit": "-0.03500000014901161",
+        "physics:upperLimit": "0.0"
+      }
+    },
+    {
+      "path": "/b2w_description/arm_base/FixedJoint",
+      "type": "PhysicsFixedJoint",
+      "body0": [
+        "/b2w_description/base_link"
+      ],
+      "body1": [
+        "/b2w_description/arm_base"
+      ],
+      "attrs": {
+        "physics:breakForce": "3.4028234663852886e+38",
+        "physics:breakTorque": "3.4028234663852886e+38",
+        "physics:collisionEnabled": "False",
+        "physics:excludeFromArticulation": "False",
+        "physics:jointEnabled": "True",
+        "physics:localPos0": "(0.2, 0, 0.1)",
+        "physics:localPos1": "(0, 0, 0)",
+        "physics:localRot0": "(1, 0, 0, 0)",
+        "physics:localRot1": "(1, 0, 0, 0)"
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "path": "/b2w_description/base_link/visuals/base_link/mesh",
+      "points": 1651440,
+      "faces": 550480,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FL_hip/visuals/FL_hip/mesh",
+      "points": 4570,
+      "faces": 781,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FL_thigh/visuals/FL_thigh/mesh",
+      "points": 14446,
+      "faces": 2611,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FL_calf/visuals/FL_calf/mesh",
+      "points": 22176,
+      "faces": 7392,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FL_foot/visuals/FL_foot/mesh",
+      "points": 22938,
+      "faces": 7646,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FR_hip/visuals/FR_hip/mesh",
+      "points": 4566,
+      "faces": 781,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FR_thigh/visuals/FR_thigh/mesh",
+      "points": 14444,
+      "faces": 2611,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FR_calf/visuals/FR_calf/mesh",
+      "points": 22062,
+      "faces": 7354,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/FR_foot/visuals/FR_foot/mesh",
+      "points": 22218,
+      "faces": 7406,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RL_hip/visuals/RL_hip/mesh",
+      "points": 4550,
+      "faces": 781,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RL_thigh/visuals/RL_thigh/mesh",
+      "points": 14444,
+      "faces": 2611,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RL_calf/visuals/RL_calf/mesh",
+      "points": 22176,
+      "faces": 7392,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RL_foot/visuals/RL_foot/mesh",
+      "points": 22938,
+      "faces": 7646,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RR_hip/visuals/RR_hip/mesh",
+      "points": 4566,
+      "faces": 781,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RR_thigh/visuals/RR_thigh/mesh",
+      "points": 14441,
+      "faces": 2610,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RR_calf/visuals/RR_calf/mesh",
+      "points": 22062,
+      "faces": 7354,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/RR_foot/visuals/RR_foot/mesh",
+      "points": 22218,
+      "faces": 7406,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/gripper_base/visuals/gripper_base/mesh",
+      "points": 38964,
+      "faces": 12988,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/gripper_base/collisions/gripper_base/mesh",
+      "points": 38964,
+      "faces": 12988,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_base/visuals/base_link/mesh",
+      "points": 36438,
+      "faces": 12146,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_base/collisions/base_link/mesh",
+      "points": 36438,
+      "faces": 12146,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link1/visuals/link1/mesh",
+      "points": 26862,
+      "faces": 8954,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link1/collisions/link1/mesh",
+      "points": 26862,
+      "faces": 8954,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link2/visuals/link2/mesh",
+      "points": 219498,
+      "faces": 73166,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link2/collisions/link2/mesh",
+      "points": 219498,
+      "faces": 73166,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link3/visuals/link3/mesh",
+      "points": 110742,
+      "faces": 36914,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link3/collisions/link3/mesh",
+      "points": 110742,
+      "faces": 36914,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link4/visuals/link4/mesh",
+      "points": 52674,
+      "faces": 17558,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link4/collisions/link4/mesh",
+      "points": 52674,
+      "faces": 17558,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link5/visuals/link5/mesh",
+      "points": 50016,
+      "faces": 16672,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link5/collisions/link5/mesh",
+      "points": 50016,
+      "faces": 16672,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link6/visuals/link6/mesh",
+      "points": 3528,
+      "faces": 1176,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link6/collisions/link6/mesh",
+      "points": 3528,
+      "faces": 1176,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link7/visuals/link7/mesh",
+      "points": 6258,
+      "faces": 2086,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link7/collisions/link7/mesh",
+      "points": 6258,
+      "faces": 2086,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link8/visuals/link8/mesh",
+      "points": 6258,
+      "faces": 2086,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    },
+    {
+      "path": "/b2w_description/arm_link8/collisions/link8/mesh",
+      "points": 6258,
+      "faces": 2086,
+      "purpose": "default",
+      "visible": "inherited",
+      "collision": false
+    }
+  ],
+  "cameras": [
+    "/b2w_description/base_link/HeadCamera/HeadCamera",
+    "/b2w_description/gripper_base/GripperCamera/GripperCamera"
+  ],
+  "source": "cloud_snapshot\\PPSUC2026\\ppsuc_robot_model\\robot\\b2w\\b2w_piper.usda"
+}

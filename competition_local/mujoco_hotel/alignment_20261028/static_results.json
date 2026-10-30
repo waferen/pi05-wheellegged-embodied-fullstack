@@ -1,0 +1,1466 @@
+{
+  "passed": true,
+  "physics_geometry_cameras_unchanged": true,
+  "xml_sha256": "84966eacf9237cbcf29199604a1a60f7fbf56a10ed552da634c2ac12a975278c",
+  "changed_materials": [
+    {
+      "name": "mat_3b2c0ee5f05e6b",
+      "before": {
+        "name": "mat_3b2c0ee5f05e6b",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_18dea41c3b97d16a"
+      },
+      "after": {
+        "name": "mat_3b2c0ee5f05e6b",
+        "rgba": "1 0.940601 0.766744 1",
+        "specular": "0.1",
+        "shininess": "0.17"
+      }
+    },
+    {
+      "name": "mat_1bb658f4a89987",
+      "before": {
+        "name": "mat_1bb658f4a89987",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7b36364394854bef"
+      },
+      "after": {
+        "name": "mat_1bb658f4a89987",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7b36364394854bef"
+      }
+    },
+    {
+      "name": "mat_678ee6a0c3db01",
+      "before": {
+        "name": "mat_678ee6a0c3db01",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_e42220eabe3e9db3"
+      },
+      "after": {
+        "name": "mat_678ee6a0c3db01",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_deb967881a1d4735"
+      }
+    },
+    {
+      "name": "mat_99dd4477c6db09",
+      "before": {
+        "name": "mat_99dd4477c6db09",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_97e2f393cada6570"
+      },
+      "after": {
+        "name": "mat_99dd4477c6db09",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_97e2f393cada6570"
+      }
+    },
+    {
+      "name": "mat_58d47eb5fbe052",
+      "before": {
+        "name": "mat_58d47eb5fbe052",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      },
+      "after": {
+        "name": "mat_58d47eb5fbe052",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      }
+    },
+    {
+      "name": "mat_674ab199da3582",
+      "before": {
+        "name": "mat_674ab199da3582",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_674ab199da3582",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_bafaa2b05303d7",
+      "before": {
+        "name": "mat_bafaa2b05303d7",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_355bb9d141477ca1"
+      },
+      "after": {
+        "name": "mat_bafaa2b05303d7",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_355bb9d141477ca1"
+      }
+    },
+    {
+      "name": "mat_5e5800b421e6f1",
+      "before": {
+        "name": "mat_5e5800b421e6f1",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_5e5800b421e6f1",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_1bfbe60254a942",
+      "before": {
+        "name": "mat_1bfbe60254a942",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.4",
+        "texture": "tex_a1f46f3b8c02559d"
+      },
+      "after": {
+        "name": "mat_1bfbe60254a942",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.4",
+        "texture": "tex_a1f46f3b8c02559d"
+      }
+    },
+    {
+      "name": "mat_e3c12a16096b79",
+      "before": {
+        "name": "mat_e3c12a16096b79",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_b8c0a87942dc5340"
+      },
+      "after": {
+        "name": "mat_e3c12a16096b79",
+        "rgba": "0.123000003 0.228 0.109999999 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_b8c0a87942dc5340"
+      }
+    },
+    {
+      "name": "mat_deb3ed61fa79f1",
+      "before": {
+        "name": "mat_deb3ed61fa79f1",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_b8c0a87942dc5340"
+      },
+      "after": {
+        "name": "mat_deb3ed61fa79f1",
+        "rgba": "0.123000003 0.228 0.109999999 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_b8c0a87942dc5340"
+      }
+    },
+    {
+      "name": "mat_db34971aa862e3",
+      "before": {
+        "name": "mat_db34971aa862e3",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_e6d809150c0403cc"
+      },
+      "after": {
+        "name": "mat_db34971aa862e3",
+        "rgba": "1 0.906475008 0 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_e6d809150c0403cc"
+      }
+    },
+    {
+      "name": "mat_a9659fa5bc79d2",
+      "before": {
+        "name": "mat_a9659fa5bc79d2",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_a9659fa5bc79d2",
+        "rgba": "0.767932475 0.388363123 0.103687078 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_89be2c6e676591",
+      "before": {
+        "name": "mat_89be2c6e676591",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_89be2c6e676591",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_51b9e58733d404",
+      "before": {
+        "name": "mat_51b9e58733d404",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_51b9e58733d404",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_98c33eb4165f8f02"
+      }
+    },
+    {
+      "name": "mat_4b8df829fd15c9",
+      "before": {
+        "name": "mat_4b8df829fd15c9",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_707351428be3c75c"
+      },
+      "after": {
+        "name": "mat_4b8df829fd15c9",
+        "rgba": "0.745779991 0.852320671 0.625754416 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_707351428be3c75c"
+      }
+    },
+    {
+      "name": "mat_94765f9c249eb1",
+      "before": {
+        "name": "mat_94765f9c249eb1",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_533c3b0d40795be5"
+      },
+      "after": {
+        "name": "mat_94765f9c249eb1",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_533c3b0d40795be5"
+      }
+    },
+    {
+      "name": "mat_13ecb6a37427a8",
+      "before": {
+        "name": "mat_13ecb6a37427a8",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_533c3b0d40795be5"
+      },
+      "after": {
+        "name": "mat_13ecb6a37427a8",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_533c3b0d40795be5"
+      }
+    },
+    {
+      "name": "mat_be2d5bc5adaef9",
+      "before": {
+        "name": "mat_be2d5bc5adaef9",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_be2d5bc5adaef9",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_9cc2d776aee89765"
+      }
+    },
+    {
+      "name": "mat_ecd0a4b2475fc4",
+      "before": {
+        "name": "mat_ecd0a4b2475fc4",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_ecd0a4b2475fc4",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_793f4636dbfabf82"
+      }
+    },
+    {
+      "name": "mat_cad2b4fa772396",
+      "before": {
+        "name": "mat_cad2b4fa772396",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_707351428be3c75c"
+      },
+      "after": {
+        "name": "mat_cad2b4fa772396",
+        "rgba": "0.745779991 0.852320671 0.625754416 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_707351428be3c75c"
+      }
+    },
+    {
+      "name": "mat_4ec43212d8e690",
+      "before": {
+        "name": "mat_4ec43212d8e690",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      },
+      "after": {
+        "name": "mat_4ec43212d8e690",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      }
+    },
+    {
+      "name": "mat_a0d8114f23ad32",
+      "before": {
+        "name": "mat_a0d8114f23ad32",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_a0d8114f23ad32",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_81e03a73efbf89",
+      "before": {
+        "name": "mat_81e03a73efbf89",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_355bb9d141477ca1"
+      },
+      "after": {
+        "name": "mat_81e03a73efbf89",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_355bb9d141477ca1"
+      }
+    },
+    {
+      "name": "mat_d926700275fe8e",
+      "before": {
+        "name": "mat_d926700275fe8e",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_d926700275fe8e",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_85068bf8acb18e",
+      "before": {
+        "name": "mat_85068bf8acb18e",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_163f758ddd6e61c3"
+      },
+      "after": {
+        "name": "mat_85068bf8acb18e",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_163f758ddd6e61c3"
+      }
+    },
+    {
+      "name": "mat_8adab611462f54",
+      "before": {
+        "name": "mat_8adab611462f54",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_8adab611462f54",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_edee741d447f9c",
+      "before": {
+        "name": "mat_edee741d447f9c",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.5",
+        "shininess": "1"
+      },
+      "after": {
+        "name": "mat_edee741d447f9c",
+        "rgba": "0.698039234 0.690196097 0.521568656 1",
+        "specular": "0.5",
+        "shininess": "1"
+      }
+    },
+    {
+      "name": "mat_e6ff792e73786c",
+      "before": {
+        "name": "mat_e6ff792e73786c",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_e6ff792e73786c",
+        "rgba": "0.880308867 0.880300045 0.880300045 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_b91e4409138257",
+      "before": {
+        "name": "mat_b91e4409138257",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d9cd1a1c6b0a431b"
+      },
+      "after": {
+        "name": "mat_b91e4409138257",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d9cd1a1c6b0a431b"
+      }
+    },
+    {
+      "name": "mat_8dbf253f20808e",
+      "before": {
+        "name": "mat_8dbf253f20808e",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      },
+      "after": {
+        "name": "mat_8dbf253f20808e",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_1a7ed58a3ef30254"
+      }
+    },
+    {
+      "name": "mat_32deb221a4f1f3",
+      "before": {
+        "name": "mat_32deb221a4f1f3",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      },
+      "after": {
+        "name": "mat_32deb221a4f1f3",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_52e847ff2aab6d29"
+      }
+    },
+    {
+      "name": "mat_b0a67109b3ea54",
+      "before": {
+        "name": "mat_b0a67109b3ea54",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_b0a67109b3ea54",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_27f199d2972588",
+      "before": {
+        "name": "mat_27f199d2972588",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_27f199d2972588",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_f0ecb1ce15d570",
+      "before": {
+        "name": "mat_f0ecb1ce15d570",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_f0ecb1ce15d570",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_189dab81f04063",
+      "before": {
+        "name": "mat_189dab81f04063",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_189dab81f04063",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_98c33eb4165f8f02"
+      }
+    },
+    {
+      "name": "mat_852831de7a007f",
+      "before": {
+        "name": "mat_852831de7a007f",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      },
+      "after": {
+        "name": "mat_852831de7a007f",
+        "rgba": "0.430379748 0.378085166 0.312343121 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      }
+    },
+    {
+      "name": "mat_339c3607ff9e66",
+      "before": {
+        "name": "mat_339c3607ff9e66",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_35a0522bd8e3b5a8"
+      },
+      "after": {
+        "name": "mat_339c3607ff9e66",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_35a0522bd8e3b5a8"
+      }
+    },
+    {
+      "name": "mat_e79ddec680f4a4",
+      "before": {
+        "name": "mat_e79ddec680f4a4",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_e79ddec680f4a4",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_745b83b527667b",
+      "before": {
+        "name": "mat_745b83b527667b",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_745b83b527667b",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_98c33eb4165f8f02"
+      }
+    },
+    {
+      "name": "mat_69c9e3ce505a66",
+      "before": {
+        "name": "mat_69c9e3ce505a66",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      },
+      "after": {
+        "name": "mat_69c9e3ce505a66",
+        "rgba": "0.430379748 0.378085166 0.312343121 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      }
+    },
+    {
+      "name": "mat_86a5daf1cd432c",
+      "before": {
+        "name": "mat_86a5daf1cd432c",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_e42220eabe3e9db3"
+      },
+      "after": {
+        "name": "mat_86a5daf1cd432c",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_deb967881a1d4735"
+      }
+    },
+    {
+      "name": "mat_abaeb6d2d09cf2",
+      "before": {
+        "name": "mat_abaeb6d2d09cf2",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_35a0522bd8e3b5a8"
+      },
+      "after": {
+        "name": "mat_abaeb6d2d09cf2",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_35a0522bd8e3b5a8"
+      }
+    },
+    {
+      "name": "mat_63c7f3a19c9aa8",
+      "before": {
+        "name": "mat_63c7f3a19c9aa8",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_63c7f3a19c9aa8",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_f792628c770c5a",
+      "before": {
+        "name": "mat_f792628c770c5a",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_f792628c770c5a",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_98c33eb4165f8f02"
+      }
+    },
+    {
+      "name": "mat_5f17646633cf6d",
+      "before": {
+        "name": "mat_5f17646633cf6d",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_e42220eabe3e9db3"
+      },
+      "after": {
+        "name": "mat_5f17646633cf6d",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_deb967881a1d4735"
+      }
+    },
+    {
+      "name": "mat_d5dfaa398458b6",
+      "before": {
+        "name": "mat_d5dfaa398458b6",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_d5dfaa398458b6",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_7d174719a023c9",
+      "before": {
+        "name": "mat_7d174719a023c9",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_7d174719a023c9",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_98c33eb4165f8f02"
+      }
+    },
+    {
+      "name": "mat_7451b8882c1b1d",
+      "before": {
+        "name": "mat_7451b8882c1b1d",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      },
+      "after": {
+        "name": "mat_7451b8882c1b1d",
+        "rgba": "0.430379748 0.378085166 0.312343121 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_adf06324d559bec0"
+      }
+    },
+    {
+      "name": "mat_5384b870eb3014",
+      "before": {
+        "name": "mat_5384b870eb3014",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_e42220eabe3e9db3"
+      },
+      "after": {
+        "name": "mat_5384b870eb3014",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_deb967881a1d4735"
+      }
+    },
+    {
+      "name": "mat_16f62685a68455",
+      "before": {
+        "name": "mat_16f62685a68455",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_75071021f9bdc254"
+      },
+      "after": {
+        "name": "mat_16f62685a68455",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_75071021f9bdc254"
+      }
+    },
+    {
+      "name": "mat_6d64c74269f77c",
+      "before": {
+        "name": "mat_6d64c74269f77c",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_86910cd1d974dac1"
+      },
+      "after": {
+        "name": "mat_6d64c74269f77c",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_86910cd1d974dac1"
+      }
+    },
+    {
+      "name": "mat_dd38848ecff62e",
+      "before": {
+        "name": "mat_dd38848ecff62e",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_26b7c69e3b964681"
+      },
+      "after": {
+        "name": "mat_dd38848ecff62e",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_26b7c69e3b964681"
+      }
+    },
+    {
+      "name": "mat_1eec0de0e6a551",
+      "before": {
+        "name": "mat_1eec0de0e6a551",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_86910cd1d974dac1"
+      },
+      "after": {
+        "name": "mat_1eec0de0e6a551",
+        "rgba": "1 0.999989986 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_86910cd1d974dac1"
+      }
+    },
+    {
+      "name": "mat_163b326ce345fd",
+      "before": {
+        "name": "mat_163b326ce345fd",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.4",
+        "texture": "tex_576a7df8c6568d9c"
+      },
+      "after": {
+        "name": "mat_163b326ce345fd",
+        "rgba": "0.200000003 0.200000003 0.200000003 1",
+        "specular": "0.1",
+        "shininess": "0.4",
+        "texture": "tex_576a7df8c6568d9c"
+      }
+    },
+    {
+      "name": "mat_c5bee710fb1d05",
+      "before": {
+        "name": "mat_c5bee710fb1d05",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_aed1bbab4e6a649b"
+      },
+      "after": {
+        "name": "mat_c5bee710fb1d05",
+        "rgba": "0.123000003 0.228 0.109999999 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_aed1bbab4e6a649b"
+      }
+    },
+    {
+      "name": "mat_c57e8483b1bc34",
+      "before": {
+        "name": "mat_c57e8483b1bc34",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_aed1bbab4e6a649b"
+      },
+      "after": {
+        "name": "mat_c57e8483b1bc34",
+        "rgba": "0.123000003 0.228 0.109999999 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_aed1bbab4e6a649b"
+      }
+    },
+    {
+      "name": "mat_26dc24b4731d76",
+      "before": {
+        "name": "mat_26dc24b4731d76",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_338b421c81b92862"
+      },
+      "after": {
+        "name": "mat_26dc24b4731d76",
+        "rgba": "1 0.906475008 0 1",
+        "specular": "0.1",
+        "shininess": "0",
+        "texture": "tex_338b421c81b92862"
+      }
+    },
+    {
+      "name": "mat_2b814eb2ed5324",
+      "before": {
+        "name": "mat_2b814eb2ed5324",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_2b814eb2ed5324",
+        "rgba": "0.767932475 0.388363123 0.103687078 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_8534f77bf0e1e5",
+      "before": {
+        "name": "mat_8534f77bf0e1e5",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_8534f77bf0e1e5",
+        "rgba": "1 0.999994338 0.999989986 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_a3e1ff3e118c77",
+      "before": {
+        "name": "mat_a3e1ff3e118c77",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_a3e1ff3e118c77",
+        "rgba": "0.999996185 0.999989986 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_598c5e9744035d9a"
+      }
+    },
+    {
+      "name": "mat_320ec64d02faa2",
+      "before": {
+        "name": "mat_320ec64d02faa2",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_45c0afa583661254"
+      },
+      "after": {
+        "name": "mat_320ec64d02faa2",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.26",
+        "texture": "tex_45c0afa583661254"
+      }
+    },
+    {
+      "name": "mat_83046a43f334b6",
+      "before": {
+        "name": "mat_83046a43f334b6",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_83046a43f334b6",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "1"
+      }
+    },
+    {
+      "name": "mat_1ef4a4a6ebb010",
+      "before": {
+        "name": "mat_1ef4a4a6ebb010",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_272c9d5fb4c06cfe"
+      },
+      "after": {
+        "name": "mat_1ef4a4a6ebb010",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_272c9d5fb4c06cfe"
+      }
+    },
+    {
+      "name": "mat_124616c596f0c7",
+      "before": {
+        "name": "mat_124616c596f0c7",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_c95d7b6c99237d27"
+      },
+      "after": {
+        "name": "mat_124616c596f0c7",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_c95d7b6c99237d27"
+      }
+    },
+    {
+      "name": "mat_4d1a956ddacfa7",
+      "before": {
+        "name": "mat_4d1a956ddacfa7",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_3fea055efa43bbce"
+      },
+      "after": {
+        "name": "mat_4d1a956ddacfa7",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_3fea055efa43bbce"
+      }
+    },
+    {
+      "name": "mat_142e41d5e6c31f",
+      "before": {
+        "name": "mat_142e41d5e6c31f",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_a33747f63b2074c3"
+      },
+      "after": {
+        "name": "mat_142e41d5e6c31f",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_a33747f63b2074c3"
+      }
+    },
+    {
+      "name": "mat_366cc2c06d5264",
+      "before": {
+        "name": "mat_366cc2c06d5264",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_2451b9741eabdc9c"
+      },
+      "after": {
+        "name": "mat_366cc2c06d5264",
+        "rgba": "0.800000012 0.800000012 0.800000012 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_2451b9741eabdc9c"
+      }
+    },
+    {
+      "name": "mat_f986a7fb5ae2e3",
+      "before": {
+        "name": "mat_f986a7fb5ae2e3",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d898c7450038ae18"
+      },
+      "after": {
+        "name": "mat_f986a7fb5ae2e3",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d898c7450038ae18"
+      }
+    },
+    {
+      "name": "mat_778b9b8e7b052f",
+      "before": {
+        "name": "mat_778b9b8e7b052f",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_415e1a6eab1e12ad"
+      },
+      "after": {
+        "name": "mat_778b9b8e7b052f",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_415e1a6eab1e12ad"
+      }
+    },
+    {
+      "name": "mat_ee8ab04fbb6e31",
+      "before": {
+        "name": "mat_ee8ab04fbb6e31",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_326e7ae70c874549"
+      },
+      "after": {
+        "name": "mat_ee8ab04fbb6e31",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_326e7ae70c874549"
+      }
+    },
+    {
+      "name": "mat_d299724422de12",
+      "before": {
+        "name": "mat_d299724422de12",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d93b0948c3af87e8"
+      },
+      "after": {
+        "name": "mat_d299724422de12",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d93b0948c3af87e8"
+      }
+    },
+    {
+      "name": "mat_2e76ea807a5dcf",
+      "before": {
+        "name": "mat_2e76ea807a5dcf",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_8bee6ee2a8710d59"
+      },
+      "after": {
+        "name": "mat_2e76ea807a5dcf",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_8bee6ee2a8710d59"
+      }
+    },
+    {
+      "name": "mat_4b240f408ba791",
+      "before": {
+        "name": "mat_4b240f408ba791",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7c461596a4d3a91f"
+      },
+      "after": {
+        "name": "mat_4b240f408ba791",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7c461596a4d3a91f"
+      }
+    },
+    {
+      "name": "mat_8999cd36f12185",
+      "before": {
+        "name": "mat_8999cd36f12185",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d898c7450038ae18"
+      },
+      "after": {
+        "name": "mat_8999cd36f12185",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_d898c7450038ae18"
+      }
+    },
+    {
+      "name": "mat_29919896dabfec",
+      "before": {
+        "name": "mat_29919896dabfec",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_415e1a6eab1e12ad"
+      },
+      "after": {
+        "name": "mat_29919896dabfec",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_415e1a6eab1e12ad"
+      }
+    },
+    {
+      "name": "mat_1aeb604d00fdad",
+      "before": {
+        "name": "mat_1aeb604d00fdad",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7c461596a4d3a91f"
+      },
+      "after": {
+        "name": "mat_1aeb604d00fdad",
+        "rgba": "0.5 0.5 0.5 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_7c461596a4d3a91f"
+      }
+    },
+    {
+      "name": "mat_fc84f1b6979282",
+      "before": {
+        "name": "mat_fc84f1b6979282",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_fc84f1b6979282",
+        "rgba": "0.0270270109 0.0270267408 0.0270267408 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_24ca7d4db33689",
+      "before": {
+        "name": "mat_24ca7d4db33689",
+        "rgba": "0.65 0.67 0.69 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      },
+      "after": {
+        "name": "mat_24ca7d4db33689",
+        "rgba": "0.509652495 0.509647369 0.509647369 1",
+        "specular": "0.1",
+        "shininess": "0.3"
+      }
+    },
+    {
+      "name": "mat_c31a6b8d72b262",
+      "before": {
+        "name": "mat_c31a6b8d72b262",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_55adf931cea6534d"
+      },
+      "after": {
+        "name": "mat_c31a6b8d72b262",
+        "rgba": "0.025 0.025 0.025 1",
+        "specular": "0.1",
+        "shininess": "0.2"
+      }
+    },
+    {
+      "name": "mat_6124368ed63db9",
+      "before": {
+        "name": "mat_6124368ed63db9",
+        "rgba": "1 1 1 1",
+        "specular": "0.1",
+        "shininess": "0.3",
+        "texture": "tex_55adf931cea6534d"
+      },
+      "after": {
+        "name": "mat_6124368ed63db9",
+        "rgba": "0.025 0.025 0.025 1",
+        "specular": "0.1",
+        "shininess": "0.2"
+      }
+    }
+  ],
+  "joint_mapping": [
+    {
+      "name": "arm_joint1",
+      "qpos_address": 23,
+      "range": [
+        -2.618,
+        2.16799981
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint2",
+      "qpos_address": 24,
+      "range": [
+        0.0,
+        3.13999982
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint3",
+      "qpos_address": 25,
+      "range": [
+        -2.96699981,
+        0.0
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint4",
+      "qpos_address": 26,
+      "range": [
+        -1.74499995,
+        1.74499995
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint5",
+      "qpos_address": 27,
+      "range": [
+        -1.21999995,
+        1.21999995
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint6",
+      "qpos_address": 28,
+      "range": [
+        -2.09439976,
+        2.09439976
+      ],
+      "type": 3
+    },
+    {
+      "name": "arm_joint7",
+      "qpos_address": 29,
+      "range": [
+        0.0,
+        0.0450000018
+      ],
+      "type": 2
+    },
+    {
+      "name": "arm_joint8",
+      "qpos_address": 30,
+      "range": [
+        -0.0450000018,
+        0.0
+      ],
+      "type": 2
+    }
+  ],
+  "arm_command_limits_rad": [
+    [
+      -2.618,
+      2.618
+    ],
+    [
+      0.0,
+      3.14
+    ],
+    [
+      -2.967,
+      0.0
+    ],
+    [
+      -1.745,
+      1.745
+    ],
+    [
+      -1.22,
+      1.22
+    ],
+    [
+      -2.0944,
+      2.0944
+    ]
+  ],
+  "velocity_com_actor_axes_max_error": 1.1102230246251565e-16,
+  "cameras": {
+    "head": {
+      "name": "World_b2w_piper_base_link_HeadCamera_HeadCamera",
+      "resolution": [
+        640,
+        480
+      ],
+      "fx": 149.22032165527344
+    },
+    "hand": {
+      "name": "World_b2w_piper_gripper_base_GripperCamera_GripperCamera",
+      "resolution": [
+        640,
+        480
+      ],
+      "fx": 184.75247192382812
+    }
+  },
+  "nq": 73,
+  "nv": 66,
+  "nu": 24,
+  "note": "Static compilation and kinematic queries only; no simulation integration."
+}

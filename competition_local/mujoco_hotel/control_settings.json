@@ -1,0 +1,6 @@
+{
+  "walk_forward_m_s": 0.65,
+  "walk_backward_m_s": 0.45,
+  "stair_speed_m_s": 0.25,
+  "turn_rad_s": 0.6
+}

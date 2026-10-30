@@ -1,0 +1,171 @@
+{
+  "source": "/home/eai/ppsuc/runs/mujoco_ep0_v2/checkpoints/pi05_mujoco_ep0_v2_lora/trial3000/2999",
+  "completed_updates": 3000,
+  "files": [
+    {
+      "path": "_CHECKPOINT_METADATA",
+      "bytes": 426,
+      "sha256": "3febce7b2543807a04a7b0a1fb1a9851e14b3e95ee969323a7f3c1dacebe8ff4"
+    },
+    {
+      "path": "assets/local/mujoco_success_ep0_v2/norm_stats.json",
+      "bytes": 3162,
+      "sha256": "c50010cdd4878edd153619964af26ba4db10a49872be281158d16dcc342fa742"
+    },
+    {
+      "path": "params/_METADATA",
+      "bytes": 33052,
+      "sha256": "88464a384c524c50fa1a92c1685d23a79570c62807a0ccf021f5f9307fff137c"
+    },
+    {
+      "path": "params/_sharding",
+      "bytes": 17773,
+      "sha256": "54899ee3f4d45eee96ddada379a19a9da1324792b141fa0449608620571e6b01"
+    },
+    {
+      "path": "params/array_metadatas/process_0",
+      "bytes": 12891,
+      "sha256": "da5f8952b77ab352fa92e3e58d742bfe0db5b9c1b956212f8279895b9df03721"
+    },
+    {
+      "path": "params/d/54d2766d6fa90127567e6c54806e347b",
+      "bytes": 2544,
+      "sha256": "d105d14ffbfb3ec57e4298ee9166937aa9b1fa58f69d925dbd84d7968b02e5d8"
+    },
+    {
+      "path": "params/manifest.ocdbt",
+      "bytes": 118,
+      "sha256": "b37b6c9cedbecf8f487d8cdb6a7637c732381f2b2a6807ad410504477699ac51"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/04ce82426df6625fb7a1a62ba405ead3",
+      "bytes": 686632155,
+      "sha256": "73714e71ee759f2eba5eb006f7d5337c98fcf2cfc9d788f7fbf2990d138a3fc0"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/0852d14e4890c2d182c30e6864a0ddc0",
+      "bytes": 368142516,
+      "sha256": "f6ee4f78a9b24bca44a29679e8b27ba48d05acb7f9bf3baa6b825f8e284fdcf5"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/12a7528e34c4b1dadeddd6dab5aebff1",
+      "bytes": 945852313,
+      "sha256": "3f92ca78109f1dad16277110f64c45498188ad7646ad1ad891abb19e6a09c522"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/17bf90bf3639e295fe28bb3ecb2c7aca",
+      "bytes": 167447481,
+      "sha256": "e3d28a65bdd21d2fcf3125923a16958cd90acf749ec061d57eabff1cc7ab8fd1"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/5f65188c0e8249610d51b5e7f03d3858",
+      "bytes": 945605988,
+      "sha256": "d9d47da542069051282d5a921b9271e145de20d6665502f7d4cc2d5cbb5c5c6b"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/7b31e760040abb4582addc595c819323",
+      "bytes": 1647861,
+      "sha256": "854915882100ff4f8401b10f9e312f2495a085e500ca0fa5091cdbb42e77d204"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/89aff3f633de5c2bd0cc559ceb2da1e6",
+      "bytes": 3275,
+      "sha256": "cfdcf555eadf64756c24e84101ce37864cdc34b58ab351782d5c754d290d2e60"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/a82dae05f7005c950fda1367ea9130aa",
+      "bytes": 552215969,
+      "sha256": "0deb2cbb486e4ccb9963d6dfac049aa0727ed221a9da279790a9bde8e57a5a7e"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/b9c26f0ad5853db181fee9ae7db9e7ac",
+      "bytes": 828932301,
+      "sha256": "288ec08875525cb8927e67f5ce8c8225ea8ae046001e12c747567fa7855594f1"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/cfa44464194ec5644dbfcf6f23ea10ca",
+      "bytes": 1370,
+      "sha256": "ecb33097b929abb52bc1c729d882d947d4c085427ef648bf71e47c4125b0bed3"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/d6d12483084d53bac1eaf449ec3ac03b",
+      "bytes": 945596829,
+      "sha256": "afd5e983084654bd7e352668a5598c86f10b0139e3a5d2654ed6b32641a714cf"
+    },
+    {
+      "path": "params/ocdbt.process_0/d/ed59c09637b9605cd54f5929129e2452",
+      "bytes": 217,
+      "sha256": "e94b6f05ceef55173200b9a654bc6d84fae3656f3c7e168fafc6291a2847bc7a"
+    },
+    {
+      "path": "params/ocdbt.process_0/manifest.ocdbt",
+      "bytes": 626,
+      "sha256": "cf013d67d017374ff366f6c070bdf0da71fb7ce283cb114d7f6dc3059c8c47ea"
+    },
+    {
+      "path": "train_state/_METADATA",
+      "bytes": 25049,
+      "sha256": "63e1f2c02ddf178de1a69bb753e0a664dc8cc04f5a040f8478856590e3ffdd89"
+    },
+    {
+      "path": "train_state/_sharding",
+      "bytes": 11093,
+      "sha256": "7ffa5b83767ec9353a713695184d5164e0eadec2d3aa10ecb23036139076db83"
+    },
+    {
+      "path": "train_state/array_metadatas/process_0",
+      "bytes": 8219,
+      "sha256": "97c589bad1e6dd6f6932232c00f66b747a47ae5e2c66b23d2b97976c67797712"
+    },
+    {
+      "path": "train_state/d/84349bdfc09ff47ddb35589277a6fe67",
+      "bytes": 1224,
+      "sha256": "efb5be3e1469cc396f551bff0d144246d81f42d8ebe9b21672f9fd598badbd6e"
+    },
+    {
+      "path": "train_state/manifest.ocdbt",
+      "bytes": 117,
+      "sha256": "5c6c3a43888a15dd5dc1ed6d5585e6c4752c65d8f15d7a8d7ba4eba763135801"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/31bb06a9b7d1467f5473ac9b62d7c7a6",
+      "bytes": 630,
+      "sha256": "4763501b5d6d3d440edf11829a080a8df22f537fece92154bd6d9ab4873c8714"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/39e1a86d5d73e89320cc0c9a5fe83ad1",
+      "bytes": 8522936,
+      "sha256": "87035b2a20f091872e3ac0cc86342103c2da1fd95a875c63df9b2a1a09e9f575"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/3ed2fcc53f28183e3aaf1694fb12fcaf",
+      "bytes": 126174355,
+      "sha256": "b90017fb1fc0bf57161a67cceeb420d719404cea244c70067ace7a46b629cbaf"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/764ddc9a665a82c40701e81c06586a19",
+      "bytes": 171,
+      "sha256": "4322e96cd3829e98d2a117a6ec7128cdaa27f5f3a65c63fc53133c63c1413e9b"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/8791ee265690d7e24660310a3406adc6",
+      "bytes": 668,
+      "sha256": "860a26546de06a822dcb0de8c238327cfa0b9453217eedbbb0297788acc54b29"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/bbbca95072ce2bc4801e3377ab5bc4e8",
+      "bytes": 164321517,
+      "sha256": "a51431d8c32f2291101e73e6ffc42cace7b98bd4e3143e51c1e1d43747a27b28"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/d/d29a737fbbb67fcb395bc6f80b7aa020",
+      "bytes": 656,
+      "sha256": "92827624422bd760c356f069f7219a978bc83525d03f7772a3ee9d8029f8f68b"
+    },
+    {
+      "path": "train_state/ocdbt.process_0/manifest.ocdbt",
+      "bytes": 388,
+      "sha256": "78c343923bbdfdda8ef1edbd0c401dec4d0f733df7f6f95a83b9def57c62669c"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "steps_target": 3000,
+  "elapsed_seconds": 1371.2455456256866,
+  "checkpoint_dir": "/home/eai/ppsuc/runs/mujoco_ep0_v2/checkpoints/pi05_mujoco_ep0_v2_lora/trial3000",
+  "gpu_memory": null
+}

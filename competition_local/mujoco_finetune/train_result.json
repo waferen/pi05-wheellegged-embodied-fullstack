@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "steps_target": 500,
+  "elapsed_seconds": 88.965895652771,
+  "checkpoint_dir": "/home/eai/ppsuc/runs/mujoco_ep3/checkpoints/pi05_mujoco_ep3_lora/pilot500",
+  "gpu_memory": null
+}

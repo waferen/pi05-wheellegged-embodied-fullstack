@@ -1,0 +1,102 @@
+{
+  "source_assets_unchanged": true,
+  "geometry": [
+    {
+      "source": "/World/b2w_piper/arm_link7/collisions/link7/mesh",
+      "body": "World_b2w_piper_arm_link7",
+      "parts": 12,
+      "decomposed": true,
+      "bounds_m": [
+        0.05651577394175791,
+        0.07701868999809483,
+        0.027026357417740163
+      ]
+    },
+    {
+      "source": "/World/b2w_piper/arm_link8/collisions/link8/mesh",
+      "body": "World_b2w_piper_arm_link8",
+      "parts": 12,
+      "decomposed": true,
+      "bounds_m": [
+        0.05651577394175791,
+        0.07701868999809484,
+        0.027026357417740166
+      ]
+    },
+    {
+      "source": "/World/C4/C4_1/d45a875b_1b17_4904_a36b_c431758ca870/d45a875b_1b17_4904_a36b_c431758ca870",
+      "body": "World_C4_C4_1",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.12172369691317808,
+        0.04863250471534686,
+        0.07225891198603662
+      ]
+    },
+    {
+      "source": "/World/C4/C4_2/C4_2/C4_2",
+      "body": "World_C4_C4_2",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.128987610772068,
+        0.06706519800015487,
+        0.04554155782971403
+      ]
+    },
+    {
+      "source": "/World/C4/C4_3/C4_3/C4_3",
+      "body": "World_C4_C4_3",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.11463060847864526,
+        0.05744410213444251,
+        0.04976720288048986
+      ]
+    },
+    {
+      "source": "/World/C4/C4_4/C4_4/C4_4",
+      "body": "World_C4_C4_4",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.15324538950987754,
+        0.07298830043786486,
+        0.08522011764675555
+      ]
+    },
+    {
+      "source": "/World/C4/easy_C4_1/d45a875b_1b17_4904_a36b_c431758ca870/d45a875b_1b17_4904_a36b_c431758ca870",
+      "body": "World_C4_easy_C4_1",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.10433459735415251,
+        0.04168500404172626,
+        0.06193621027374585
+      ]
+    },
+    {
+      "source": "/World/C4/easy_C4_2/C4_4/C4_4",
+      "body": "World_C4_easy_C4_2",
+      "parts": 1,
+      "decomposed": false,
+      "bounds_m": [
+        0.17513758801128798,
+        0.08341520050041495,
+        0.09739442016772062
+      ]
+    }
+  ],
+  "pair_settings": {
+    "condim": "6",
+    "friction": "1 1 .005 .0001 .0001",
+    "solref": ".005 1",
+    "solimp": ".99 .999 .001 .5 2"
+  },
+  "pair_count": 144,
+  "coacd_version": "1.0.14",
+  "note": "Original world scale, mass and actuator forces unchanged. Convex decomposition is an approximation to the source surfaces, not an exact SDF."
+}

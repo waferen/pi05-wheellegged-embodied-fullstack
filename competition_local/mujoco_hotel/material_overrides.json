@@ -1,0 +1,73 @@
+{
+  "reason": "User requested black trash cans in the MuJoCo derivative. Local USD TinCan uses silver; source USD remains unchanged.",
+  "materials": {
+    "/World/Obstacle/trash_can03/Looks/TinCan": {
+      "color": [
+        0.025,
+        0.025,
+        0.025
+      ],
+      "roughness": 0.8,
+      "metallic": 0
+    },
+    "/World/Obstacle/trash_can05/Looks/TinCan": {
+      "color": [
+        0.025,
+        0.025,
+        0.025
+      ],
+      "roughness": 0.8,
+      "metallic": 0
+    },
+    "/World/Lounge/AntiqueMirror/Looks/Glass": {
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "alpha": 0.08,
+      "roughness": 0.05,
+      "reason": "OmniGlass cover must transmit its underlying textured facade/mirror; native Phong approximation."
+    },
+    "/World/Lounge/AntiqueMirror_01/Looks/Glass": {
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "alpha": 0.08,
+      "roughness": 0.05,
+      "reason": "OmniGlass cover must transmit its underlying textured facade/mirror; native Phong approximation."
+    },
+    "/World/Lounge/AntiqueMirror_02/Looks/Glass": {
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "alpha": 0.08,
+      "roughness": 0.05,
+      "reason": "OmniGlass cover must transmit its underlying textured facade/mirror; native Phong approximation."
+    },
+    "/World/Lounge/AntiqueMirror_03/Looks/Glass": {
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "alpha": 0.08,
+      "roughness": 0.05,
+      "reason": "OmniGlass cover must transmit its underlying textured facade/mirror; native Phong approximation."
+    },
+    "/World/Lounge/AntiqueMirror_04/Looks/Glass": {
+      "color": [
+        0.9,
+        0.95,
+        1.0
+      ],
+      "alpha": 0.08,
+      "roughness": 0.05,
+      "reason": "OmniGlass cover must transmit its underlying textured facade/mirror; native Phong approximation."
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Piper kinematics from Piper_ros/src/piper_description/urdf/piper_description.urdf.
+# No solver overrides. Acceleration/jerk limits are absent in the source model
+# and intentionally left unspecified; no Franka limits are substituted.
+api_version: 1.0
+cspace: [arm_joint1, arm_joint2, arm_joint3, arm_joint4, arm_joint5, arm_joint6]
+root_link: arm_base
+default_q: [0, 0, 0, 0, 0, 0]
+cspace_to_urdf_rules: []
+collision_spheres: []

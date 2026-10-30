@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "c4": [
+    {
+      "source": "/World/C4/C4_1/d45a875b_1b17_4904_a36b_c431758ca870/d45a875b_1b17_4904_a36b_c431758ca870",
+      "source_dimensions_m": [
+        0.12172369691317808,
+        0.04863250471534686,
+        0.07225891198603662
+      ],
+      "converted_dimensions_m": [
+        0.12172369132038607,
+        0.0486325009338775,
+        0.07225891272672458
+      ],
+      "max_dimension_error_m": 5.592792007291791e-09,
+      "original_vertices": 10179,
+      "converted_vertices": 403
+    },
+    {
+      "source": "/World/C4/C4_2/C4_2/C4_2",
+      "source_dimensions_m": [
+        0.128987610772068,
+        0.06706519800015487,
+        0.04554155782971403
+      ],
+      "converted_dimensions_m": [
+        0.1289876116396158,
+        0.06706520246197156,
+        0.045541561464156
+      ],
+      "max_dimension_error_m": 4.461816693890341e-09,
+      "original_vertices": 8539,
+      "converted_vertices": 234
+    },
+    {
+      "source": "/World/C4/C4_3/C4_3/C4_3",
+      "source_dimensions_m": [
+        0.11463060847864526,
+        0.05744410213444251,
+        0.04976720288048986
+      ],
+      "converted_dimensions_m": [
+        0.11463060960857341,
+        0.05744410326235094,
+        0.04976720272530609
+      ],
+      "max_dimension_error_m": 1.1299281510446235e-09,
+      "original_vertices": 25650,
+      "converted_vertices": 364
+    },
+    {
+      "source": "/World/C4/C4_4/C4_4/C4_4",
+      "source_dimensions_m": [
+        0.15324538950987754,
+        0.07298830043786486,
+        0.08522011764675555
+      ],
+      "converted_dimensions_m": [
+        0.15324539286028815,
+        0.07298830044635718,
+        0.08522012357235348
+      ],
+      "max_dimension_error_m": 5.9255979290018246e-09,
+      "original_vertices": 12652,
+      "converted_vertices": 644
+    },
+    {
+      "source": "/World/C4/easy_C4_1/d45a875b_1b17_4904_a36b_c431758ca870/d45a875b_1b17_4904_a36b_c431758ca870",
+      "source_dimensions_m": [
+        0.10433459735415251,
+        0.04168500404172626,
+        0.06193621027374585
+      ],
+      "converted_dimensions_m": [
+        0.10433460026206642,
+        0.041685009730136,
+        0.06193621228731183
+      ],
+      "max_dimension_error_m": 5.688409743243028e-09,
+      "original_vertices": 10179,
+      "converted_vertices": 403
+    },
+    {
+      "source": "/World/C4/easy_C4_2/C4_4/C4_4",
+      "source_dimensions_m": [
+        0.17513758801128798,
+        0.08341520050041495,
+        0.09739442016772062
+      ],
+      "converted_dimensions_m": [
+        0.17513758314851557,
+        0.08341520012200476,
+        0.09739441734777288
+      ],
+      "max_dimension_error_m": 4.862772406966087e-09,
+      "original_vertices": 12652,
+      "converted_vertices": 644
+    }
+  ],
+  "scope": "C4 world bounds, source USD vs compiled collision mesh. Mesh contact still uses convex hulls rather than source SDF."
+}

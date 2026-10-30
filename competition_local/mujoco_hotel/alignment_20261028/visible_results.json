@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "visible_gui": true,
+  "started": 1793170486.6987927,
+  "sensors": {
+    "observation/image": {
+      "shape": [
+        480,
+        640,
+        3
+      ],
+      "dtype": "uint8",
+      "std": 20.880064306310345
+    },
+    "observation/wrist_image": {
+      "shape": [
+        480,
+        640,
+        3
+      ],
+      "dtype": "uint8",
+      "std": 53.108422805814605
+    }
+  },
+  "mechanical": {
+    "closed_fingers_m": [
+      0.0010021431571045358,
+      -0.0009893316378485895
+    ],
+    "opened_fingers_m": [
+      0.04501110136577032,
+      -0.04499887674174363
+    ],
+    "home_targets_zero": true,
+    "low_lock_seconds": 1.0000000000000004,
+    "low_lock_reason": "timeout",
+    "low_lock_metrics": {
+      "ground_z": null,
+      "height_error_m": NaN,
+      "tilt_deg": 5.148614397116711,
+      "stable_seconds": 0.0
+    },
+    "active_internal_locks": 16,
+    "low_pose_target_reached": false
+  },
+  "full_task_success_evaluated": false,
+  "policy": {
+    "pi05_inference": true,
+    "checkpoint_step": 40000,
+    "control": "manual",
+    "task_phase": 0,
+    "execute_steps": 25,
+    "inference_count": 4,
+    "executed_policy_steps": 100,
+    "rejected_policy_steps": 0,
+    "waiting_for_prediction": false,
+    "last_infer_seconds": 0.23500000004423782,
+    "policy_error": "",
+    "wall_seconds": 1.4849999999860302
+  },
+  "finite_state": true,
+  "finished": 1793170493.1175854
+}

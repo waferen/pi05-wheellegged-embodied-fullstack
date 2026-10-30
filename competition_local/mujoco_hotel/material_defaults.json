@@ -1,0 +1,377 @@
+{
+  "source": "NVIDIA official public material library; exact authored MDL basenames",
+  "updated": 1792910372.5743244,
+  "materials": {
+    "Carpet_Beige.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Beige.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\8db140fc913d16dc11d3d389.mdl",
+      "mdl_sha256": "b4def82baebff9cde3cba532f317ecb0bb21487bf9fcf9e838801af198e07ae9",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\7d3d7295632a0fc6664951cc.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Beige/Carpet_Beige_BaseColor.png",
+      "texture_sha256": "096aa0d99813d0a1dfb1c5c0586d9e3a818f201935d97ee0de195a3e895df95e",
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "Carpet_Berber_Gray.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Berber_Gray.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\2822e303cafc2352231298f5.mdl",
+      "mdl_sha256": "07cf6e9cc9e7ff784e7117c6d580e5132a9d417693b1a011a0039c1ce20ddb77",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\5060b46b21abe8df0c19c7ee.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Berber_Gray/Carpet_Berber_Gray_BaseColor.png",
+      "texture_sha256": "b9045135abafb895877769d14c5700d1945b2541690b7117293a9a6abf8c1dec",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Carpet_Diamond_Olive.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Diamond_Olive.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\ee278da759b53797157e9542.mdl",
+      "mdl_sha256": "df9cbb1457b849984f8a38ce68f8b3f4c2deaa82e7127bfffbc081e5cd4a4c53",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\489cb3884dc46bc37d7e7cab.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Diamond_Olive/Carpet_Diamond_Olive_BaseColor.png",
+      "texture_sha256": "03b51fad80ed47cf76cdad9ee2af19f18f19721d5caf8a5939dda5e12a119d82",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Carpet_Diamond_Yellow.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Diamond_Yellow.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\4645dae29b37b4fea716dc26.mdl",
+      "mdl_sha256": "d21d8570749de8214cbd683e966fe01ad42f5d9c2f070cb1de8ec78a16ce40e9",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\5444cf55e99fc762132c812f.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Diamond_Yellow/Carpet_Diamond_Yellow_BaseColor.png",
+      "texture_sha256": "4e92fcad5331b5a29f8201f7c0fa4c7da75a22e6259e448b4630733f55d184b1",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Carpet_Gray.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Gray.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\c640efb99f2f96b0d3ad3e50.mdl",
+      "mdl_sha256": "d9410beb16ff91c84e732682285fa4d9834dbde24f17d0f94bf82d8c015f102f",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\5ca23a9f77655fc8955f5d0d.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Gray/Carpet_Gray_BaseColor.png",
+      "texture_sha256": "6f717398ca2059f60904c2b0078f22ca1c0404361998043481dd59beac51973c",
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "Carpet_Pattern_Leaf_Squares_Tan.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Leaf_Squares_Tan.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\f2f78826022869b9428b9f11.mdl",
+      "mdl_sha256": "46e5a2c9fb7fb000a8c524e515da2e196b7af859a57db0403ce1f1c135318669",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\873f4b54f074f7a96526f2eb.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Leaf_Squares_Tan/Carpet_Pattern_Leaf_Squares_Tan_BaseColor.png",
+      "texture_sha256": "08bed35a9b161dab8b05432293b676471fa662a74c3f8c2f651b6b3409dff31b",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Carpet_Pattern_Loop.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Loop.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\b902d5926a23afce2c39f4cd.mdl",
+      "mdl_sha256": "125a1e0f0f1fd4b425dee72111dc784635a03b8e0bc6f01fe11044bf4202b71a",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\cf8c2418dc4083919afd302e.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Loop/Carpet_Pattern_Loop_BaseColor.png",
+      "texture_sha256": "55de4bb51c56f2b6681390e3e6a993c9416edd2bc7a9ecf2ec8fd338a3c6691d",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Carpet_Pattern_Squares_Multi.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Squares_Multi.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\58b8b62f6d45b14ae3879c19.mdl",
+      "mdl_sha256": "4cf877fa3cc734d2dba8bef4e4fac935e25496504ee4fbd2756cff825aeec3ec",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\d2c64e65bc578dd530fcdee2.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Carpet/Carpet_Pattern_Squares_Multi/Carpet_Pattern_Squares_Multi_BaseColor.png",
+      "texture_sha256": "7f2bdcd93ec55b81298ff146df2d54d0ab684aff1575ebefadb3f0f89a975950",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Clear_Glass.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Glass/Clear_Glass.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\6a3aa9c166c1787b9dd45e20.mdl",
+      "mdl_sha256": "5454a44463d100c648eeec2ae1c2e12ef9d16f0d4caebf675ff65e8427a6b40a"
+    },
+    "Frosted_Glass.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Glass/Frosted_Glass.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\93f12a014c7dd72653ac705e.mdl",
+      "mdl_sha256": "aa9220780bdab3d018cf22475ce117e9f96920557e7516f955b642ce82312c08"
+    },
+    "Concrete_Rough.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Rough.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\bc729ee99a2fb5b319a9d951.mdl",
+      "mdl_sha256": "9f490065fd52164685a872a260e22bd122e62a984339cbdc4f774b332f5ab7a2",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\66902c91433d8a3533021b29.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Masonry/Concrete_Rough/Concrete_Rough_BaseColor.png",
+      "texture_sha256": "e83fc20c30175cba17c6ec83621616336d7aaf849782b0856241b23e8dab9465",
+      "color": [
+        0.200000003,
+        0.200000003,
+        0.200000003
+      ]
+    },
+    "Aluminum_Anodized_Red.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Metals/Aluminum_Anodized_Red.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\246ba90d42611c7ebcd76c86.mdl",
+      "mdl_sha256": "1b82357ca0ba54256100280bbc0becff6e27efb71be029c0f0b3c58995bfdd60",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\d0eda14424f7cb9db31ea411.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Metals/Aluminum_Anodized/Aluminum_Anodized_BaseColor.png",
+      "texture_sha256": "d1d042502d7d94bca13cee10c63ab5b3801fb0a46e26d79169e13f5b9c7b5a31",
+      "color": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "Metal_Door.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Metals/Metal_Door.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\930b530760f351364d29451c.mdl",
+      "mdl_sha256": "b757d5424caf677f4724e625686f51e3f9b334fb4a67a0395a4a49d0fdf0e757",
+      "color": [
+        0.439,
+        0.5,
+        0.561
+      ]
+    },
+    "Marble.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Stone/Marble.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\f3491c66acc15076ea4cdad7.mdl",
+      "mdl_sha256": "d8117d80f25c0445fa74d20c9a801e166591a429a41f947fc08b58285e92973e",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\348eeaf752abbd20086a03a4.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Stone/Marble/Marble_BaseColor.png",
+      "texture_sha256": "66e1ec75d78da4adeb7972aeafd9a37034c3d2029a10792a210cd3455d65708d",
+      "color": [
+        0.200000003,
+        0.200000003,
+        0.200000003
+      ]
+    },
+    "Marble_Smooth.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Stone/Marble_Smooth.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\09ab4b7730f3f8b791e7fb54.mdl",
+      "mdl_sha256": "f8915d7cfba79c461516b9b5d04e620101b8ab5abfd903d4533283c7ab782ae7",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\8b3a5b6e3eea58a601279ba2.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Stone/Marble_Smooth/Marble_Smooth_BaseColor.png",
+      "texture_sha256": "5c5720fd90aeb69000affe99e9f9bacd30c2ddfcc4b1ff495e8e25c32245794f",
+      "color": [
+        0.200000003,
+        0.200000003,
+        0.200000003
+      ]
+    },
+    "Bamboo_Planks.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Wood/Bamboo_Planks.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\adec53ac77e594d26fd81b9c.mdl",
+      "mdl_sha256": "ef0347aa75808e043c5f63f1f30a5a6839f0e5b2315e59009655f01c8c38c47b",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\da0ba8808b9445c0e4427eb0.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/Base/Wood/Bamboo_Planks/Bamboo_Planks_BaseColor.png",
+      "texture_sha256": "d3628b69cb78b42635ad8a7c70d6344c5640f5f081ea14ec3d1ac779cf7ebe77",
+      "color": [
+        0.200000003,
+        0.200000003,
+        0.200000003
+      ]
+    },
+    "Fabric_Carpet_Long_Floor.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Carpet/Fabric_Carpet_Long_Floor.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\a489eb14bc2cf68e5a5afcc6.mdl",
+      "mdl_sha256": "cfe980cfa96a8e8e35477b16a5322f4322b82f64f0518054397252c199639263",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\0d1066a17b152e591146de3f.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Carpet/textures/long_floor_carpet_diff.jpg",
+      "texture_sha256": "c1c1c25ed2a7d32f22d76a4a09a5419fffe773a014c8c0b103783d5b99bf5369"
+    },
+    "Rug_Carpet.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Carpet/Rug_Carpet.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\a349b0bcd84fe37afdcd4e6a.mdl",
+      "mdl_sha256": "c7d7e1aeb16abac7813ef6fac4ab553fd68e856772926f4ed4d65e46f4f7be4c"
+    },
+    "Mortar.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Concrete/Mortar.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\ba76cc314d24693c53313f16.mdl",
+      "mdl_sha256": "aca026b5a8bcc6cbe6a3821a09aadbbc4d734a5ffac456521fac8eac27d5e659",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\e71362ca49113f33525f4269.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Concrete/textures/mortar_diff.jpg",
+      "texture_sha256": "4ba01f0c53f3ab271c4765611a65cf2bd72c4c7e273bb7e7ab1b64023c991d28"
+    },
+    "Cotton_Single_Jersey.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Fabric/Cotton_Single_Jersey.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\9c0c1aed4b8fbf19fd56a99c.mdl",
+      "mdl_sha256": "6b2cda298eb08775d3a7c71e87da1c84d6bc989659e8e803d42842d4cab15e5e",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\57dbc0f84aa0023cea36208e.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Fabric/textures/single_jersey_R_diff.jpg",
+      "texture_sha256": "ba5418fdb23a8749272f7a3ebf6d6f3ac438ee7ada7f240870f07b2e7e9a0293"
+    },
+    "Glass_Clear.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Clear.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\14e38465edd8888f8bc390ae.mdl",
+      "mdl_sha256": "392357f7a655db15a172bb4f27597c4e58a55632bf8c0bae0dcceb561bdf36f6"
+    },
+    "Glass_Colored.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Colored.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\4cdcba3eb0d5afb38cc1f84d.mdl",
+      "mdl_sha256": "fe2ae83c2450b5f8b22586b89f2fb51a7e760d5abbedb70ccec744f00f645601"
+    },
+    "Glass_Dirty.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Dirty.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\f9b4d594e2f91df8eca53782.mdl",
+      "mdl_sha256": "ce84f2772c757019e264fea71552cbd373985e470141115b63d4cd462da3b3a1"
+    },
+    "Glass_Fritted.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Fritted.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\26ff1e8a319b62f275d25d02.mdl",
+      "mdl_sha256": "f16056b052a12f5b128aba1a5a891a1f7d5f064f28c537b1794be324e8f80c02"
+    },
+    "Glass_Glazing_Spandrel.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Glazing_Spandrel.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\c4b198fc86687debc15c3436.mdl",
+      "mdl_sha256": "f10612d3aaf1aa5b021da13b8e33bbf068cb57709dae71738a74f1f075b4c69e"
+    },
+    "Glass_Glazing_Tinted.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Glass/Glass_Glazing_Tinted.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\149ca13594da5ccaeaee6555.mdl",
+      "mdl_sha256": "41199aeef1e5b0ca23287d39c83b290d9bfad89c02dc04bde093a268e5b918c8"
+    },
+    "Ground_Aggregate_Exposed.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Ground/Ground_Aggregate_Exposed.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\7f2c6b40a12d2868fab46542.mdl",
+      "mdl_sha256": "d2ecb5ab14b490b480ea45513510914fcd4d791472f00c3bda634996216d0b2c",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\e744bf08647ee96d4657d7a9.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Ground/textures/aggregate_exposed_diff.jpg",
+      "texture_sha256": "910c6cedb95597bee6ff7bc60ca8d52240a3da23b0e51d6831e71e53e5593bba"
+    },
+    "Metal_Mesh_Weave_02.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Metal/Mesh/Metal_Mesh_Weave_02.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\0d9b24e5d344709fe6e7177a.mdl",
+      "mdl_sha256": "ef96bbb9593a3aa0ceb36433aface08d6040cfab8c42ca50c1cde57fbf69073f",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\4969ee05b57777de9823c0c8.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Metal/Mesh/textures/metalweave_02_color_mask.png",
+      "texture_sha256": "20ccf073159bc9f9640dd9ef7790168dd24d6202e45eae66a3fc4be309cf780a"
+    },
+    "Metal_Mesh_Weave_03.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Metal/Mesh/Metal_Mesh_Weave_03.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\79093d31244302215f05b364.mdl",
+      "mdl_sha256": "dee107f7928089e03f3f66da077f751991ea308fc00dc92229370442622cf2fc",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\af3f421621e1e2c4cf606b05.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Metal/Mesh/textures/metalweave_03_color_mask.png",
+      "texture_sha256": "307e02b87c7cf81b0f05f223b3e6c81bb93d06b851d887e2fa5dfb01190a49d9"
+    },
+    "Facade_Plaster_Rough.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plaster/Facade_Plaster_Rough.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\37c733ac120403ac8dcf5025.mdl",
+      "mdl_sha256": "f87213044887a524fa5ebeb8725e13063c7fb4570d60c5bb25e33a7a96fe5900",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\ae0f881d5f19d6ea4983474b.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plaster/textures/plaster_rough_diff.jpg",
+      "texture_sha256": "958d2cd2bc4fad0e8c353394177cc34c75eb52370696e2b8618880ea067aa843"
+    },
+    "Plaster_Wall.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plaster/Plaster_Wall.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\72aad645def41c2849f17492.mdl",
+      "mdl_sha256": "8e82a2422753281fd762e4a2b3918509b548bfd4e2fe1521c72c66a3e376d544",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\b9b81b94969ddee748382e8f_diffuse_baked.png",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plaster/textures/plaster_wall_multi_r_ao_g_grunge_b_diff.jpg",
+      "texture_sha256": "f0c338c97d2e38f46517a463fe7000bf869fb9c41d3a149a6c4c5026c720b9f5",
+      "raw_diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\b9b81b94969ddee748382e8f.jpg",
+      "bake": "Source B=diffuse channel, MDL diffuse_tint and diffuse_brightness; procedural weathering approximated.",
+      "bake_tint": [
+        0.838,
+        0.802,
+        0.775
+      ],
+      "bake_brightness": 0.5,
+      "color": [
+        0.838,
+        0.802,
+        0.775
+      ]
+    },
+    "Plastic_Thick_Translucent.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/Plastic_Thick_Translucent.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\d563ed9b2085803414f05171.mdl",
+      "mdl_sha256": "e6fc7403fce0da94912d3aa2ced0638a2aafb4c9cd504a745743f4273b7dc333"
+    },
+    "Plastic_Thick_Translucent_Flakes.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Plastic/Plastic_Thick_Translucent_Flakes.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\d77667beb635f1aaac020545.mdl",
+      "mdl_sha256": "ce666e9e0ec5efb0d2b187d32e01179b905f0ea01da6596490fafe90b3305d64"
+    },
+    "Laminate_Oak.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/Laminate_Oak.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\100d405051c3ae2e110d615b.mdl",
+      "mdl_sha256": "1aa582ccfcb4cc4d4ec2549169dc2537999dfe09adaa46c188c18bf646b8b9a2",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\0ca5c50ab0f3a275c3cdd5bc.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/textures/laminate_oak_diffuse.jpg",
+      "texture_sha256": "90ef8ef45d7cb0186b25c35fb5653b06946ffb73bc808a4160eb1e6a53bdedfa"
+    },
+    "OSB_Wood_Splattered.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/OSB_Wood_Splattered.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\5658494bc9823b8fc95cc560.mdl",
+      "mdl_sha256": "93c6186b2c00cd9a7258ad5809006f592343e4eb5d12b852ae12e1685fa08daf",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\a186a3ffc81057ff94b93224.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/textures/osb_wood_diff.jpg",
+      "texture_sha256": "16a8c44718e24d8a7e9343c3e18e69fb3a8481f7c867bc95c1b49a6242ca78da"
+    },
+    "Wood_Cork.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/Wood_Cork.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\8536fb1da64081399c1d8737.mdl",
+      "mdl_sha256": "dd402dd00ac9c740dac41083f14a40476da4e9cea3c65405090987ebf11a6073",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\55366accf366f21ddf9d0818.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/textures/wood_cork_diff.jpg",
+      "texture_sha256": "2f222050f9604b5dc077c16232c9fdd5c84ace3ae6ce7c22ae4c9726b0b6092c"
+    },
+    "Wood_Tiles_Ash.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/Wood_Tiles_Ash.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\32681dd93e19422252fb993e.mdl",
+      "mdl_sha256": "61661d46cd801b1140d10a3f10dd5a707290e016bb6653493454895ad4831109",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\46bfb20f1091aef051f2d37c.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/textures/wood_ash_diff.jpg",
+      "texture_sha256": "c8ce5fc25a04e231f9fe753fa8f649035a220cef2808a3a2bcb076952650621c"
+    },
+    "Wood_Tiles_Walnut.mdl": {
+      "mdl_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/Wood_Tiles_Walnut.mdl",
+      "mdl_file": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\f14c3a0216d0c9762fd096a6.mdl",
+      "mdl_sha256": "6ba3f65577a19db265ee64f2d677be39f7d40530834f206da44633dee93f0d04",
+      "diffuse_texture": "D:\\EAI Competition Of PPSUC\\competition_local\\mujoco_hotel\\material_library\\59a9fbdd7696c3be3551da3d.jpg",
+      "texture_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Materials/vMaterials_2/Wood/textures/wood_walnut_diff.jpg",
+      "texture_sha256": "0bb9e156a6e4ddb37efcb06b89240e72d4021ed7bc1e7a95b9c5fe5eb91b9504"
+    }
+  },
+  "not_found": [
+    "Glass_Clear_01.mdl",
+    "Glass_Glazing_Tinted_1.mdl",
+    "Glass_Inner_Light_Clear_01.mdl",
+    "Glass_Inner_Light_Clear_03.mdl",
+    "Metal_Glossy_A.mdl",
+    "Metal_Painted_White_Rough_A.mdl",
+    "OmniGlass.mdl",
+    "OmniPBR.mdl",
+    "OmniPBR_Opacity.mdl",
+    "OmniSurface.mdl",
+    "OmniSurfacePresets.mdl",
+    "Plastic_Black_A.mdl",
+    "PowderMetal_Gray_Midgloss_A.mdl",
+    "Rubber_Black_Glossy_A.mdl",
+    "Wood_Grain_Raw_04.mdl",
+    "Wood_Grain_Raw_05.mdl",
+    "Wood_Grain_Varnish_02.mdl",
+    "Wood_Grain_Varnish_03.mdl"
+  ]
+}

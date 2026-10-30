@@ -1,0 +1,10 @@
+{
+  "updated": 1792910935.5307257,
+  "materials": 665,
+  "textures": 223,
+  "matched_official_mdl_modules": 38,
+  "original_urls_and_hashes": "material_defaults.json",
+  "exact_uv_meshes": 700,
+  "preview": "hotel_restored_textures.png",
+  "mdl_rendering_limitations": "Diffuse textures/defaults restored; full MDL procedural shading, glass and RTX lighting remain approximations."
+}

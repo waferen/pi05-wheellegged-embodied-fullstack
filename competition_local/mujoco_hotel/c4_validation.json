@@ -1,0 +1,129 @@
+{
+  "passed": true,
+  "objects": [
+    {
+      "body": "World_C4_C4_1",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        5.3,
+        3.85,
+        1.11
+      ],
+      "settled_position": [
+        5.300006038317441,
+        3.849998356797382,
+        1.1080037126323081
+      ],
+      "instantaneous_qvel_norm_mixed_units": 0.06866544459826904,
+      "contacts": 3,
+      "pose_excursion_200ms_m": 3.504237488619236e-05,
+      "net_displacement_200ms_m": 4.896977192547318e-06
+    },
+    {
+      "body": "World_C4_C4_2",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        7.00936435,
+        -2.05943536,
+        0.495014146
+      ],
+      "settled_position": [
+        7.009192046274383,
+        -2.059056605424084,
+        0.4793326227306659
+      ],
+      "instantaneous_qvel_norm_mixed_units": 5.866896076233249e-15,
+      "contacts": 3,
+      "pose_excursion_200ms_m": 0.0,
+      "net_displacement_200ms_m": 0.0
+    },
+    {
+      "body": "World_C4_C4_3",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        8.75,
+        4.55,
+        0.05
+      ],
+      "settled_position": [
+        8.750000005593582,
+        4.549996747480664,
+        0.05201463710040016
+      ],
+      "instantaneous_qvel_norm_mixed_units": 2.9192736302386067e-15,
+      "contacts": 4,
+      "pose_excursion_200ms_m": 0.0,
+      "net_displacement_200ms_m": 0.0
+    },
+    {
+      "body": "World_C4_C4_4",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        -2.0,
+        2.15,
+        0.05
+      ],
+      "settled_position": [
+        -2.000001563509859,
+        2.149999348576625,
+        0.0478768841374631
+      ],
+      "instantaneous_qvel_norm_mixed_units": 9.975103351778048e-15,
+      "contacts": 4,
+      "pose_excursion_200ms_m": 0.0,
+      "net_displacement_200ms_m": 0.0
+    },
+    {
+      "body": "World_C4_easy_C4_1",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        6.84481885,
+        14.0,
+        0.818269113
+      ],
+      "settled_position": [
+        6.844824636447701,
+        13.99999601710944,
+        0.8124402044464195
+      ],
+      "instantaneous_qvel_norm_mixed_units": 0.03015359183100382,
+      "contacts": 4,
+      "pose_excursion_200ms_m": 1.936836664502221e-05,
+      "net_displacement_200ms_m": 9.095168902005072e-06
+    },
+    {
+      "body": "World_C4_easy_C4_2",
+      "mass_kg": 0.00999999977648,
+      "initial_position": [
+        6.05,
+        19.3,
+        0.05
+      ],
+      "settled_position": [
+        6.04999824549061,
+        19.299999346259554,
+        0.04757966931176155
+      ],
+      "instantaneous_qvel_norm_mixed_units": 1.4066761682166102e-15,
+      "contacts": 4,
+      "pose_excursion_200ms_m": 0.0,
+      "net_displacement_200ms_m": 0.0
+    }
+  ],
+  "push": {
+    "target": "World_C4_easy_C4_1",
+    "force_N": [
+      0.15,
+      0,
+      0
+    ],
+    "duration_s": 0.16,
+    "displacement_m": [
+      0.10877513395846083,
+      0.0037405469783067247,
+      -6.37682370607795e-06
+    ]
+  },
+  "noslip_iterations": 3,
+  "scope": "Real hotel C4 support, 200ms physical-step COM pose stability and push response. Robot pickup is tested separately."
+}

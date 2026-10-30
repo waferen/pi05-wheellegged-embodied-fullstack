@@ -1,0 +1,28 @@
+{
+  "profile": "bright_collection_v1",
+  "headlight_ambient": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "headlight_diffuse": [
+    0.45,
+    0.45,
+    0.45
+  ],
+  "headlight_specular": [
+    0.03,
+    0.03,
+    0.03
+  ],
+  "scene_ambient": [
+    0.06,
+    0.06,
+    0.06
+  ],
+  "scene_diffuse": [
+    0.3,
+    0.3,
+    0.3
+  ]
+}

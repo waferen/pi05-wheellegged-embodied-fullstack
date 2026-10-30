@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Source: Piper_ros/src/piper_description/urdf/piper_description.urdf.
+     Arm names match the simulation. arm_tcp is the symmetric finger-origin
+     midpoint, with the arm_link7 orientation; no collision geometry is used. -->
+<robot name="piper_lula">
+  <link name="arm_base" />
+  <link name="arm_link1" />
+  <joint name="arm_joint1" type="revolute">
+    <origin xyz="0 0 0.123" rpy="0 0 0" />
+    <parent link="arm_base" />
+    <child link="arm_link1" />
+    <axis xyz="0 0 1" />
+    <limit lower="-2.618" upper="2.618" effort="100" velocity="5" />
+  </joint>
+  <link name="arm_link2" />
+  <joint name="arm_joint2" type="revolute">
+    <origin xyz="0 0 0" rpy="1.5708 -0.1359 -3.1416" />
+    <parent link="arm_link1" />
+    <child link="arm_link2" />
+    <axis xyz="0 0 1" />
+    <limit lower="0" upper="3.14" effort="100" velocity="5" />
+  </joint>
+  <link name="arm_link3" />
+  <joint name="arm_joint3" type="revolute">
+    <origin xyz="0.28503 0 0" rpy="0 0 -1.7939" />
+    <parent link="arm_link2" />
+    <child link="arm_link3" />
+    <axis xyz="0 0 1" />
+    <limit lower="-2.967" upper="0" effort="100" velocity="5" />
+  </joint>
+  <link name="arm_link4" />
+  <joint name="arm_joint4" type="revolute">
+    <origin xyz="-0.021984 -0.25075 0" rpy="1.5708 0 0" />
+    <parent link="arm_link3" />
+    <child link="arm_link4" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.745" upper="1.745" effort="100" velocity="5" />
+  </joint>
+  <link name="arm_link5" />
+  <joint name="arm_joint5" type="revolute">
+    <origin xyz="0 0 0" rpy="-1.5708 0 0" />
+    <parent link="arm_link4" />
+    <child link="arm_link5" />
+    <axis xyz="0 0 1" />
+    <limit lower="-1.22" upper="1.22" effort="100" velocity="5" />
+  </joint>
+  <link name="arm_link6" />
+  <joint name="arm_joint6" type="revolute">
+    <origin xyz="8.8259E-05 -0.091 0" rpy="1.5708 0 0" />
+    <parent link="arm_link5" />
+    <child link="arm_link6" />
+    <axis xyz="0 0 1" />
+    <limit lower="-2.0944" upper="2.0944" effort="100" velocity="3" />
+  </joint>
+  <link name="arm_tcp" />
+  <joint name="arm_tcp_fixed" type="fixed">
+    <parent link="arm_link6" />
+    <child link="arm_tcp" />
+    <origin xyz="0 0 0.1358" rpy="1.5708 0 0" />
+  </joint>
+</robot>

@@ -1,0 +1,9 @@
+{
+  "followup": "App heartbeat continues WSL setup after a new Windows boot, when Codex is running.",
+  "user_message": "现在可以重启，我已保存工作",
+  "boot_before_restart": "2026-09-29T16:24:49.7733450+08:00",
+  "reason": "Enable installed WSL2 VirtualMachinePlatform components",
+  "automatic_repeated_restart_allowed": false,
+  "user_approved": true,
+  "authorized_at": "2026-10-25T13:07:37.0457128+08:00"
+}

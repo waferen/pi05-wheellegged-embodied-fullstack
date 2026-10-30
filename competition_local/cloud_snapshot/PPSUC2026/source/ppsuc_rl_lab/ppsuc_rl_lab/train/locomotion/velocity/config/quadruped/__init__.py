@@ -1,0 +1,6 @@
+# Reference: https://github.com/fan-ziqi/robot_lab
+
+"""Configurations for velocity-based locomotion environments."""
+
+from .unitree_b2 import *
+from .unitree_b2w_piper import *

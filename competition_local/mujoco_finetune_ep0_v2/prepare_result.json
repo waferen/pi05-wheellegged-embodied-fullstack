@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "frames": 17674,
+  "episodes": 1,
+  "norm_state_count": 17674,
+  "norm_action_count": 883700,
+  "norm_uses_actual_delta_transform": true,
+  "sample_checks": [
+    {
+      "frame": 0,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 4000,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 9391,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 0
+    },
+    {
+      "frame": 9392,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 1
+    },
+    {
+      "frame": 17673,
+      "action_shape": [
+        50,
+        32
+      ],
+      "observation_phase": 1
+    }
+  ],
+  "source": {
+    "path": "/mnt/d/EAI Competition Of PPSUC/competition_local/datasets/mujoco_raw/episode_000000.hdf5",
+    "frames": 17674,
+    "seconds": 353.48,
+    "last_stage": 14,
+    "result": "success",
+    "purpose": "demonstration",
+    "phase1_start_frame": 9392,
+    "fps": 50,
+    "valid": true,
+    "sha256": "4075b9cd9c2eb051f3669615d42653b57f7cb6b3c183609d580d63920c888dcb"
+  },
+  "assets": "/mnt/d/EAI Competition Of PPSUC/competition_local/mujoco_finetune_ep0_v2/assets/pi05_mujoco_ep0_v2_lora/local/mujoco_success_ep0_v2",
+  "config_checkpoint": "/home/eai/ppsuc/runs/mujoco_ep0_v2/checkpoints/pi05_mujoco_ep0_v2_lora/trial3000"
+}
