@@ -1,1 +1,15 @@
-本工程包含PPSUC2026、OpenPI及Piper ROS相关源码。请阅读各自目录中的LICENSE、NOTICE和package.xml。保留原作者、来源与许可说明。原始场景/贴图/预训练模型通过独立资源包恢复，不随本仓库Git历史分发。
+# 第三方来源与版权声明
+
+本文件保留随原工程分发的版权及许可文字，不为本仓库整体新增许可证。OpenPI、Piper ROS及其它组件的原LICENSE/NOTICE继续保留在各自源码目录。
+
+## 原工程随附声明
+
+Copyright 2026 PPSUC (Advanced Technology Exploration Community)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
